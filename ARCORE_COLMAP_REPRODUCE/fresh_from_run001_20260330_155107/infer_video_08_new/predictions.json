@@ -1,0 +1,6437 @@
+[
+  {
+    "image": "frame_000000.png",
+    "score": 0.923828125,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000001.png",
+    "score": 0.9244384765625,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000002.png",
+    "score": 0.922406017780304,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000003.png",
+    "score": 0.9227896332740784,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000004.png",
+    "score": 0.9231470823287964,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000005.png",
+    "score": 0.921952098608017,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000006.png",
+    "score": 0.9206356704235077,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000007.png",
+    "score": 0.9198505878448486,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000008.png",
+    "score": 0.9192845225334167,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000009.png",
+    "score": 0.918643593788147,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000010.png",
+    "score": 0.9176807403564453,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000011.png",
+    "score": 0.9170535206794739,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000012.png",
+    "score": 0.9160127341747284,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000013.png",
+    "score": 0.9152572154998779,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000014.png",
+    "score": 0.9189188182353973,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000015.png",
+    "score": 0.917172908782959,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000016.png",
+    "score": 0.9165544807910919,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000017.png",
+    "score": 0.9171665012836456,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000018.png",
+    "score": 0.9173077940940857,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000019.png",
+    "score": 0.9179592430591583,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000020.png",
+    "score": 0.9187569618225098,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000021.png",
+    "score": 0.9193300008773804,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000022.png",
+    "score": 0.9196940064430237,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000023.png",
+    "score": 0.9232999682426453,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000024.png",
+    "score": 0.9246729016304016,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000025.png",
+    "score": 0.9255622923374176,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000026.png",
+    "score": 0.9257951080799103,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000027.png",
+    "score": 0.9251297116279602,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000028.png",
+    "score": 0.9249590337276459,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000029.png",
+    "score": 0.920653760433197,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000030.png",
+    "score": 0.9223141670227051,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000031.png",
+    "score": 0.9234959483146667,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000032.png",
+    "score": 0.9239261746406555,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000033.png",
+    "score": 0.9259816706180573,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000034.png",
+    "score": 0.9251346588134766,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000035.png",
+    "score": 0.9249251484870911,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000036.png",
+    "score": 0.9251151084899902,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000037.png",
+    "score": 0.9239012002944946,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000038.png",
+    "score": 0.9241124391555786,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000039.png",
+    "score": 0.9226417243480682,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000040.png",
+    "score": 0.9229070544242859,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000041.png",
+    "score": 0.9228454828262329,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000042.png",
+    "score": 0.9225796759128571,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000043.png",
+    "score": 0.918161004781723,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000044.png",
+    "score": 0.9262166023254395,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000045.png",
+    "score": 0.9287428557872772,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000046.png",
+    "score": 0.9297782778739929,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000047.png",
+    "score": 0.9271007180213928,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000048.png",
+    "score": 0.9247003197669983,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000049.png",
+    "score": 0.9291540384292603,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000050.png",
+    "score": 0.9311274886131287,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000051.png",
+    "score": 0.932920902967453,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000052.png",
+    "score": 0.9338340163230896,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000053.png",
+    "score": 0.934653639793396,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000054.png",
+    "score": 0.9321503043174744,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000055.png",
+    "score": 0.9313472211360931,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000056.png",
+    "score": 0.9294284582138062,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000057.png",
+    "score": 0.9302408397197723,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000058.png",
+    "score": 0.9313468337059021,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000059.png",
+    "score": 0.9313814043998718,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000060.png",
+    "score": 0.9326089024543762,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000061.png",
+    "score": 0.9299637079238892,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000062.png",
+    "score": 0.9315361976623535,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000063.png",
+    "score": 0.9329991936683655,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000064.png",
+    "score": 0.9323878288269043,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000065.png",
+    "score": 0.9305135011672974,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000066.png",
+    "score": 0.932900607585907,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000067.png",
+    "score": 0.9309664368629456,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000068.png",
+    "score": 0.9310012757778168,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000069.png",
+    "score": 0.9348168075084686,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000070.png",
+    "score": 0.9355847835540771,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000071.png",
+    "score": 0.9360560178756714,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000072.png",
+    "score": 0.9367302358150482,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000073.png",
+    "score": 0.9354286789894104,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000074.png",
+    "score": 0.9322226047515869,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000075.png",
+    "score": 0.9264919757843018,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000076.png",
+    "score": 0.9223635792732239,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000077.png",
+    "score": 0.9172120690345764,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000078.png",
+    "score": 0.9098011255264282,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000079.png",
+    "score": 0.898303210735321,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000080.png",
+    "score": 0.8945428729057312,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000081.png",
+    "score": 0.8961001634597778,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000082.png",
+    "score": 0.8964561820030212,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000083.png",
+    "score": 0.8930509090423584,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000084.png",
+    "score": 0.8911169767379761,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000085.png",
+    "score": 0.8990254700183868,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000086.png",
+    "score": 0.9052184224128723,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000087.png",
+    "score": 0.904364287853241,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000088.png",
+    "score": 0.9045292735099792,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000089.png",
+    "score": 0.9096493124961853,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000090.png",
+    "score": 0.9105854630470276,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000091.png",
+    "score": 0.9141032695770264,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000092.png",
+    "score": 0.9186137318611145,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000093.png",
+    "score": 0.9189582467079163,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000094.png",
+    "score": 0.9198923707008362,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000095.png",
+    "score": 0.9193441271781921,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000096.png",
+    "score": 0.9197139739990234,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000097.png",
+    "score": 0.9224076271057129,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000098.png",
+    "score": 0.9244384765625,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000099.png",
+    "score": 0.9256531000137329,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000100.png",
+    "score": 0.9222561717033386,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000101.png",
+    "score": 0.923439621925354,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000102.png",
+    "score": 0.9270934462547302,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000103.png",
+    "score": 0.9270766973495483,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000104.png",
+    "score": 0.928996205329895,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000105.png",
+    "score": 0.9297467470169067,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000106.png",
+    "score": 0.9309285879135132,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000107.png",
+    "score": 0.9318837821483612,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000108.png",
+    "score": 0.931334912776947,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000109.png",
+    "score": 0.9300198554992676,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000110.png",
+    "score": 0.9295895397663116,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000111.png",
+    "score": 0.9304026663303375,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000112.png",
+    "score": 0.9307644367218018,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000113.png",
+    "score": 0.9295473992824554,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000114.png",
+    "score": 0.9281333982944489,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000115.png",
+    "score": 0.9245114624500275,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000116.png",
+    "score": 0.9231175482273102,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000117.png",
+    "score": 0.9199949204921722,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000118.png",
+    "score": 0.9131017029285431,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000119.png",
+    "score": 0.9120326042175293,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000120.png",
+    "score": 0.9145207703113556,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000121.png",
+    "score": 0.9081255793571472,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000122.png",
+    "score": 0.8909241557121277,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000123.png",
+    "score": 0.894048810005188,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000124.png",
+    "score": 0.8971833884716034,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000125.png",
+    "score": 0.9043029248714447,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000126.png",
+    "score": 0.9101718068122864,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000127.png",
+    "score": 0.9092370867729187,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000128.png",
+    "score": 0.905915379524231,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000129.png",
+    "score": 0.9095816016197205,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000130.png",
+    "score": 0.912611186504364,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000131.png",
+    "score": 0.915510356426239,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000132.png",
+    "score": 0.9188383221626282,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000133.png",
+    "score": 0.9179099202156067,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000134.png",
+    "score": 0.9162152111530304,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000135.png",
+    "score": 0.9187377095222473,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000136.png",
+    "score": 0.9180132746696472,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000137.png",
+    "score": 0.9206177592277527,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000138.png",
+    "score": 0.9202435910701752,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000139.png",
+    "score": 0.9197448194026947,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000140.png",
+    "score": 0.9209597706794739,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000141.png",
+    "score": 0.9228487014770508,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000142.png",
+    "score": 0.9198592603206635,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000143.png",
+    "score": 0.9230002462863922,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000144.png",
+    "score": 0.9244226217269897,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000145.png",
+    "score": 0.9246433973312378,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000146.png",
+    "score": 0.9247892498970032,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000147.png",
+    "score": 0.9227209985256195,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000148.png",
+    "score": 0.9232192039489746,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000149.png",
+    "score": 0.921064019203186,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000150.png",
+    "score": 0.9192560911178589,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000151.png",
+    "score": 0.9159912467002869,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000152.png",
+    "score": 0.9137439131736755,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000153.png",
+    "score": 0.9116411805152893,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000154.png",
+    "score": 0.9111804962158203,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000155.png",
+    "score": 0.9064349234104156,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000156.png",
+    "score": 0.9102091193199158,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000157.png",
+    "score": 0.9097458720207214,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000158.png",
+    "score": 0.8981019258499146,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000159.png",
+    "score": 0.8914536237716675,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000160.png",
+    "score": 0.8850626945495605,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000161.png",
+    "score": 0.8774949312210083,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000162.png",
+    "score": 0.872173011302948,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000163.png",
+    "score": 0.8649857044219971,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000164.png",
+    "score": 0.8649389147758484,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000165.png",
+    "score": 0.8609947264194489,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000166.png",
+    "score": 0.8558225035667419,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000167.png",
+    "score": 0.8526847958564758,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000168.png",
+    "score": 0.8517281115055084,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000169.png",
+    "score": 0.8539363145828247,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000170.png",
+    "score": 0.8425653576850891,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000171.png",
+    "score": 0.8376907408237457,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000172.png",
+    "score": 0.8367064595222473,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000173.png",
+    "score": 0.8333208858966827,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000174.png",
+    "score": 0.8171033263206482,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000175.png",
+    "score": 0.8191456198692322,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000176.png",
+    "score": 0.8076345920562744,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000177.png",
+    "score": 0.7977756857872009,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000178.png",
+    "score": 0.7994211614131927,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000179.png",
+    "score": 0.7909267544746399,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000180.png",
+    "score": 0.7971435189247131,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000181.png",
+    "score": 0.7937268018722534,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000182.png",
+    "score": 0.7905902862548828,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000183.png",
+    "score": 0.8040873408317566,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000184.png",
+    "score": 0.8068476319313049,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000185.png",
+    "score": 0.8122354447841644,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000186.png",
+    "score": 0.8217051029205322,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000187.png",
+    "score": 0.8144988417625427,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000188.png",
+    "score": 0.8152107000350952,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000189.png",
+    "score": 0.8252701759338379,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000190.png",
+    "score": 0.8230026066303253,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000191.png",
+    "score": 0.8261133432388306,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000192.png",
+    "score": 0.8221724033355713,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000193.png",
+    "score": 0.8153539896011353,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000194.png",
+    "score": 0.8160594701766968,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000195.png",
+    "score": 0.8036667108535767,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000196.png",
+    "score": 0.7976563572883606,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000197.png",
+    "score": 0.790810614824295,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000198.png",
+    "score": 0.7980561852455139,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000199.png",
+    "score": 0.8139675259590149,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000200.png",
+    "score": 0.8065688610076904,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000201.png",
+    "score": 0.8017793893814087,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000202.png",
+    "score": 0.7812618613243103,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000203.png",
+    "score": 0.7334659993648529,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000204.png",
+    "score": 0.784656286239624,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000205.png",
+    "score": 0.8095028400421143,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000206.png",
+    "score": 0.8023676872253418,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000207.png",
+    "score": 0.818047821521759,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000208.png",
+    "score": 0.8208491802215576,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000209.png",
+    "score": 0.8243674337863922,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000210.png",
+    "score": 0.8199182152748108,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000211.png",
+    "score": 0.8143705427646637,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000212.png",
+    "score": 0.8293735384941101,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000213.png",
+    "score": 0.8144684433937073,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000214.png",
+    "score": 0.8137779831886292,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000215.png",
+    "score": 0.8225901126861572,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000216.png",
+    "score": 0.8102614879608154,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000217.png",
+    "score": 0.8268449902534485,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000218.png",
+    "score": 0.8322305679321289,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000219.png",
+    "score": 0.8347531855106354,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000220.png",
+    "score": 0.8334550857543945,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000221.png",
+    "score": 0.836879312992096,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000222.png",
+    "score": 0.838811457157135,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000223.png",
+    "score": 0.8437193632125854,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000224.png",
+    "score": 0.8288039565086365,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000225.png",
+    "score": 0.8332347571849823,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000226.png",
+    "score": 0.8366238474845886,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000227.png",
+    "score": 0.8334219455718994,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000228.png",
+    "score": 0.8358601033687592,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000229.png",
+    "score": 0.8242127895355225,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000230.png",
+    "score": 0.8262174129486084,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000231.png",
+    "score": 0.8347418308258057,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000232.png",
+    "score": 0.8360000848770142,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000233.png",
+    "score": 0.8348488807678223,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000234.png",
+    "score": 0.8451898396015167,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000235.png",
+    "score": 0.8309798836708069,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000236.png",
+    "score": 0.8184769153594971,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000237.png",
+    "score": 0.8274816274642944,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000238.png",
+    "score": 0.8220826685428619,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000239.png",
+    "score": 0.8324799537658691,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000240.png",
+    "score": 0.833462119102478,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000241.png",
+    "score": 0.8255916833877563,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000242.png",
+    "score": 0.823106199502945,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000243.png",
+    "score": 0.8135726749897003,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000244.png",
+    "score": 0.7833292484283447,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000245.png",
+    "score": 0.8099082410335541,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000246.png",
+    "score": 0.8080105781555176,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000247.png",
+    "score": 0.8116909861564636,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000248.png",
+    "score": 0.8116400241851807,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000249.png",
+    "score": 0.8142975270748138,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000250.png",
+    "score": 0.820275753736496,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000251.png",
+    "score": 0.8177410364151001,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000252.png",
+    "score": 0.813075453042984,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000253.png",
+    "score": 0.8207388520240784,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000254.png",
+    "score": 0.8245264887809753,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000255.png",
+    "score": 0.8126692771911621,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000256.png",
+    "score": 0.8067215383052826,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000257.png",
+    "score": 0.8070513308048248,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000258.png",
+    "score": 0.8123230338096619,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000259.png",
+    "score": 0.8173709511756897,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000260.png",
+    "score": 0.8379451334476471,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000261.png",
+    "score": 0.8322198987007141,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000262.png",
+    "score": 0.831805408000946,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000263.png",
+    "score": 0.826682448387146,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000264.png",
+    "score": 0.8430298566818237,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000265.png",
+    "score": 0.8458685874938965,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000266.png",
+    "score": 0.8477960824966431,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000267.png",
+    "score": 0.8586828708648682,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000268.png",
+    "score": 0.8642189502716064,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000269.png",
+    "score": 0.8753326535224915,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000270.png",
+    "score": 0.8714842200279236,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000271.png",
+    "score": 0.8630809783935547,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000272.png",
+    "score": 0.8788937628269196,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000273.png",
+    "score": 0.8882743716239929,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000274.png",
+    "score": 0.8900035619735718,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000275.png",
+    "score": 0.8957275450229645,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000276.png",
+    "score": 0.9002429246902466,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000277.png",
+    "score": 0.896500825881958,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000278.png",
+    "score": 0.8963225483894348,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000279.png",
+    "score": 0.8987513184547424,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000280.png",
+    "score": 0.897535890340805,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000281.png",
+    "score": 0.8961715996265411,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000282.png",
+    "score": 0.8984608054161072,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000283.png",
+    "score": 0.8964728116989136,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000284.png",
+    "score": 0.8976376950740814,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000285.png",
+    "score": 0.8957148790359497,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000286.png",
+    "score": 0.8974405527114868,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000287.png",
+    "score": 0.8969370126724243,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000288.png",
+    "score": 0.8964525461196899,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000289.png",
+    "score": 0.897016167640686,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000290.png",
+    "score": 0.8985590934753418,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000291.png",
+    "score": 0.8994931578636169,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000292.png",
+    "score": 0.897260308265686,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000293.png",
+    "score": 0.8984858393669128,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000294.png",
+    "score": 0.8974997401237488,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000295.png",
+    "score": 0.8979949951171875,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000296.png",
+    "score": 0.8960212767124176,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000297.png",
+    "score": 0.8929581940174103,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000298.png",
+    "score": 0.8954483270645142,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000299.png",
+    "score": 0.8938759863376617,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000300.png",
+    "score": 0.894720196723938,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000301.png",
+    "score": 0.8937318325042725,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000302.png",
+    "score": 0.8950681388378143,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000303.png",
+    "score": 0.8997948169708252,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000304.png",
+    "score": 0.8956683874130249,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000305.png",
+    "score": 0.8991117477416992,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000306.png",
+    "score": 0.9038742780685425,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000307.png",
+    "score": 0.9087397456169128,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000308.png",
+    "score": 0.9146750271320343,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000309.png",
+    "score": 0.9184887409210205,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000310.png",
+    "score": 0.9206229150295258,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000311.png",
+    "score": 0.9253977835178375,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000312.png",
+    "score": 0.9280971884727478,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000313.png",
+    "score": 0.9325481653213501,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000314.png",
+    "score": 0.9337388873100281,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000315.png",
+    "score": 0.9335637092590332,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000316.png",
+    "score": 0.9329668879508972,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000317.png",
+    "score": 0.9346528053283691,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000318.png",
+    "score": 0.9341152012348175,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000319.png",
+    "score": 0.9348937273025513,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000320.png",
+    "score": 0.9344552159309387,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000321.png",
+    "score": 0.936008483171463,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000322.png",
+    "score": 0.9311498999595642,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000323.png",
+    "score": 0.9304429888725281,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000324.png",
+    "score": 0.9289067387580872,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000325.png",
+    "score": 0.9286721348762512,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000326.png",
+    "score": 0.9284942746162415,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000327.png",
+    "score": 0.928054690361023,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000328.png",
+    "score": 0.929021418094635,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000329.png",
+    "score": 0.9253538846969604,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000330.png",
+    "score": 0.9210417866706848,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000331.png",
+    "score": 0.9205378293991089,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000332.png",
+    "score": 0.9184296131134033,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000333.png",
+    "score": 0.9163545370101929,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000334.png",
+    "score": 0.9077547788619995,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000335.png",
+    "score": 0.9102880954742432,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000336.png",
+    "score": 0.9067497849464417,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000337.png",
+    "score": 0.9059145450592041,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000338.png",
+    "score": 0.9066392481327057,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000339.png",
+    "score": 0.9065495431423187,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000340.png",
+    "score": 0.9044249951839447,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000341.png",
+    "score": 0.9037081599235535,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000342.png",
+    "score": 0.9054867625236511,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000343.png",
+    "score": 0.9053541421890259,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000344.png",
+    "score": 0.9045609831809998,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000345.png",
+    "score": 0.9050158858299255,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000346.png",
+    "score": 0.9016650021076202,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000347.png",
+    "score": 0.9007741510868073,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000348.png",
+    "score": 0.8970371186733246,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000349.png",
+    "score": 0.8848133087158203,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000350.png",
+    "score": 0.8704485893249512,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000351.png",
+    "score": 0.8570914566516876,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000352.png",
+    "score": 0.8406630158424377,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000353.png",
+    "score": 0.849364161491394,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000354.png",
+    "score": 0.8736566305160522,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000355.png",
+    "score": 0.8955258131027222,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000356.png",
+    "score": 0.8949928283691406,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000357.png",
+    "score": 0.9005224108695984,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000358.png",
+    "score": 0.9061760008335114,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000359.png",
+    "score": 0.9127278625965118,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000360.png",
+    "score": 0.9170393943786621,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000361.png",
+    "score": 0.9170181751251221,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000362.png",
+    "score": 0.9147115647792816,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000363.png",
+    "score": 0.9146758317947388,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000364.png",
+    "score": 0.9152543544769287,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000365.png",
+    "score": 0.9131311178207397,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000366.png",
+    "score": 0.9065555930137634,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000367.png",
+    "score": 0.9109224677085876,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000368.png",
+    "score": 0.9071597158908844,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000369.png",
+    "score": 0.9060301184654236,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000370.png",
+    "score": 0.9009899199008942,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000371.png",
+    "score": 0.9015869498252869,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000372.png",
+    "score": 0.9009387493133545,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000373.png",
+    "score": 0.9016930758953094,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000374.png",
+    "score": 0.9005576372146606,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000375.png",
+    "score": 0.9017153978347778,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000376.png",
+    "score": 0.9041954278945923,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000377.png",
+    "score": 0.9062064290046692,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000378.png",
+    "score": 0.9022953808307648,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000379.png",
+    "score": 0.9043923616409302,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000380.png",
+    "score": 0.9043616056442261,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000381.png",
+    "score": 0.9073476195335388,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000382.png",
+    "score": 0.9121637344360352,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000383.png",
+    "score": 0.9144830107688904,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000384.png",
+    "score": 0.918187826871872,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000385.png",
+    "score": 0.919395387172699,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000386.png",
+    "score": 0.9183139503002167,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000387.png",
+    "score": 0.9207342863082886,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000388.png",
+    "score": 0.9208081662654877,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000389.png",
+    "score": 0.9217276871204376,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000390.png",
+    "score": 0.9225386083126068,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000391.png",
+    "score": 0.9200183153152466,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000392.png",
+    "score": 0.917863130569458,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000393.png",
+    "score": 0.9140654504299164,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000394.png",
+    "score": 0.9084366858005524,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000395.png",
+    "score": 0.905829131603241,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000396.png",
+    "score": 0.9060185253620148,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000397.png",
+    "score": 0.9103218913078308,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000398.png",
+    "score": 0.9125545024871826,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000399.png",
+    "score": 0.9114997088909149,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000400.png",
+    "score": 0.9121036529541016,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000401.png",
+    "score": 0.9138396382331848,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000402.png",
+    "score": 0.9147333800792694,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000403.png",
+    "score": 0.9128689765930176,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000404.png",
+    "score": 0.9097805619239807,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000405.png",
+    "score": 0.9098641872406006,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000406.png",
+    "score": 0.9127421975135803,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000407.png",
+    "score": 0.9128968715667725,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000408.png",
+    "score": 0.9161679744720459,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000409.png",
+    "score": 0.9190657138824463,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000410.png",
+    "score": 0.9216726720333099,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000411.png",
+    "score": 0.9198960661888123,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000412.png",
+    "score": 0.923533171415329,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000413.png",
+    "score": 0.9262171685695648,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000414.png",
+    "score": 0.9289873242378235,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000415.png",
+    "score": 0.9317194223403931,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000416.png",
+    "score": 0.9305853247642517,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000417.png",
+    "score": 0.9330377578735352,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000418.png",
+    "score": 0.9346917867660522,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000419.png",
+    "score": 0.9363216757774353,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000420.png",
+    "score": 0.9378773272037506,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000421.png",
+    "score": 0.938427746295929,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000422.png",
+    "score": 0.9385961890220642,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000423.png",
+    "score": 0.938676655292511,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000424.png",
+    "score": 0.9382204115390778,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000425.png",
+    "score": 0.9380793273448944,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000426.png",
+    "score": 0.9411633610725403,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000427.png",
+    "score": 0.9421759843826294,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000428.png",
+    "score": 0.9445639848709106,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000429.png",
+    "score": 0.9464023113250732,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000430.png",
+    "score": 0.9471081793308258,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000431.png",
+    "score": 0.9484851956367493,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000432.png",
+    "score": 0.9478265345096588,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000433.png",
+    "score": 0.9469881951808929,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000434.png",
+    "score": 0.946063220500946,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000435.png",
+    "score": 0.9459207057952881,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000436.png",
+    "score": 0.9466724097728729,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000437.png",
+    "score": 0.9500887989997864,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000438.png",
+    "score": 0.9534570574760437,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000439.png",
+    "score": 0.9558955132961273,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000440.png",
+    "score": 0.9583719372749329,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000441.png",
+    "score": 0.9597949981689453,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000442.png",
+    "score": 0.9586367607116699,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000443.png",
+    "score": 0.9581950604915619,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000444.png",
+    "score": 0.9572563171386719,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000445.png",
+    "score": 0.9572160840034485,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000446.png",
+    "score": 0.9584757089614868,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000447.png",
+    "score": 0.9597178101539612,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000448.png",
+    "score": 0.9619390368461609,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000449.png",
+    "score": 0.9631607234477997,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000450.png",
+    "score": 0.9646016657352448,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000451.png",
+    "score": 0.9671519994735718,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000452.png",
+    "score": 0.9709106683731079,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000453.png",
+    "score": 0.9732586741447449,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000454.png",
+    "score": 0.9750994145870209,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000455.png",
+    "score": 0.9766611456871033,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000456.png",
+    "score": 0.9766167402267456,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000457.png",
+    "score": 0.9791436195373535,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000458.png",
+    "score": 0.9802892208099365,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000459.png",
+    "score": 0.981139063835144,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000460.png",
+    "score": 0.9823755025863647,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000461.png",
+    "score": 0.9817371964454651,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000462.png",
+    "score": 0.982374906539917,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000463.png",
+    "score": 0.9817368984222412,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000464.png",
+    "score": 0.9820451438426971,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000465.png",
+    "score": 0.9816897809505463,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000466.png",
+    "score": 0.9810304641723633,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000467.png",
+    "score": 0.9803382158279419,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000468.png",
+    "score": 0.9800673723220825,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000469.png",
+    "score": 0.9807973206043243,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000470.png",
+    "score": 0.9808692038059235,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000471.png",
+    "score": 0.981677770614624,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000472.png",
+    "score": 0.9816830158233643,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000473.png",
+    "score": 0.9825648069381714,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000474.png",
+    "score": 0.9827202260494232,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000475.png",
+    "score": 0.9828056991100311,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000476.png",
+    "score": 0.9832921624183655,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000477.png",
+    "score": 0.9836695790290833,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000478.png",
+    "score": 0.983987033367157,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000479.png",
+    "score": 0.984381377696991,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000480.png",
+    "score": 0.9844883680343628,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000481.png",
+    "score": 0.9844373464584351,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000482.png",
+    "score": 0.9839698374271393,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000483.png",
+    "score": 0.9840422868728638,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000484.png",
+    "score": 0.9837525486946106,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000485.png",
+    "score": 0.9829339981079102,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000486.png",
+    "score": 0.9817147850990295,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000487.png",
+    "score": 0.9812639355659485,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000488.png",
+    "score": 0.9814554154872894,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000489.png",
+    "score": 0.980571985244751,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000490.png",
+    "score": 0.980086088180542,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000491.png",
+    "score": 0.9798188209533691,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000492.png",
+    "score": 0.977364718914032,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000493.png",
+    "score": 0.9769793152809143,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000494.png",
+    "score": 0.9756931066513062,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000495.png",
+    "score": 0.9739969372749329,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000496.png",
+    "score": 0.9730640649795532,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000497.png",
+    "score": 0.9723312556743622,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000498.png",
+    "score": 0.9711591601371765,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000499.png",
+    "score": 0.9695013165473938,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000500.png",
+    "score": 0.9678448736667633,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000501.png",
+    "score": 0.9652858674526215,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000502.png",
+    "score": 0.9620107412338257,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000503.png",
+    "score": 0.9600995779037476,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000504.png",
+    "score": 0.9605864882469177,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000505.png",
+    "score": 0.960964173078537,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000506.png",
+    "score": 0.9569726586341858,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000507.png",
+    "score": 0.9531294107437134,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000508.png",
+    "score": 0.9518945217132568,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000509.png",
+    "score": 0.9498969912528992,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000510.png",
+    "score": 0.9513496160507202,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000511.png",
+    "score": 0.9515748023986816,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000512.png",
+    "score": 0.947963297367096,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000513.png",
+    "score": 0.9469413161277771,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000514.png",
+    "score": 0.9481004476547241,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000515.png",
+    "score": 0.9331129789352417,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000516.png",
+    "score": 0.9261271953582764,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000517.png",
+    "score": 0.926838219165802,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000518.png",
+    "score": 0.9244338870048523,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000519.png",
+    "score": 0.9227452874183655,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000520.png",
+    "score": 0.9280787706375122,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000521.png",
+    "score": 0.9312807321548462,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000522.png",
+    "score": 0.9228245317935944,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000523.png",
+    "score": 0.919455349445343,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000524.png",
+    "score": 0.9212766289710999,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000525.png",
+    "score": 0.9259892702102661,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000526.png",
+    "score": 0.9293258488178253,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000527.png",
+    "score": 0.9295496344566345,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000528.png",
+    "score": 0.9289525151252747,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000529.png",
+    "score": 0.9278550446033478,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000530.png",
+    "score": 0.9261527955532074,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000531.png",
+    "score": 0.9246794581413269,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000532.png",
+    "score": 0.922489732503891,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000533.png",
+    "score": 0.9227624237537384,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000534.png",
+    "score": 0.9184690415859222,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000535.png",
+    "score": 0.9087590575218201,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000536.png",
+    "score": 0.9047003090381622,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000537.png",
+    "score": 0.9015524387359619,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000538.png",
+    "score": 0.9033733606338501,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000539.png",
+    "score": 0.905656635761261,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000540.png",
+    "score": 0.9071321487426758,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000541.png",
+    "score": 0.9006927013397217,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000542.png",
+    "score": 0.9097608625888824,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000543.png",
+    "score": 0.9142234325408936,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000544.png",
+    "score": 0.9146881103515625,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000545.png",
+    "score": 0.9148338437080383,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000546.png",
+    "score": 0.9204193651676178,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000547.png",
+    "score": 0.9215748906135559,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000548.png",
+    "score": 0.923467755317688,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000549.png",
+    "score": 0.9234346151351929,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000550.png",
+    "score": 0.9265047609806061,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000551.png",
+    "score": 0.9234325885772705,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000552.png",
+    "score": 0.9209860563278198,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000553.png",
+    "score": 0.9216058254241943,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000554.png",
+    "score": 0.9199325144290924,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000555.png",
+    "score": 0.9146420955657959,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000556.png",
+    "score": 0.9136976897716522,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000557.png",
+    "score": 0.9094429016113281,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000558.png",
+    "score": 0.9037092328071594,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000559.png",
+    "score": 0.900750994682312,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000560.png",
+    "score": 0.9037016034126282,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000561.png",
+    "score": 0.9021506309509277,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000562.png",
+    "score": 0.9025183022022247,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000563.png",
+    "score": 0.9084212183952332,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000564.png",
+    "score": 0.9087381362915039,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000565.png",
+    "score": 0.9078504145145416,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000566.png",
+    "score": 0.9010511040687561,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000567.png",
+    "score": 0.9025971591472626,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000568.png",
+    "score": 0.9020314812660217,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000569.png",
+    "score": 0.8987052142620087,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000570.png",
+    "score": 0.8926399350166321,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000571.png",
+    "score": 0.8924046158790588,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000572.png",
+    "score": 0.8910300731658936,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000573.png",
+    "score": 0.8978790640830994,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000574.png",
+    "score": 0.8994487226009369,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000575.png",
+    "score": 0.8964057862758636,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000576.png",
+    "score": 0.9126765131950378,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000577.png",
+    "score": 0.915656179189682,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000578.png",
+    "score": 0.91246098279953,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000579.png",
+    "score": 0.9132793247699738,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000580.png",
+    "score": 0.9094325304031372,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000581.png",
+    "score": 0.919450581073761,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000582.png",
+    "score": 0.9336031079292297,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000583.png",
+    "score": 0.9351369738578796,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000584.png",
+    "score": 0.9368839263916016,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000585.png",
+    "score": 0.9414214193820953,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000586.png",
+    "score": 0.9431235790252686,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000587.png",
+    "score": 0.9436813592910767,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000588.png",
+    "score": 0.9424866735935211,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000589.png",
+    "score": 0.9425131678581238,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000590.png",
+    "score": 0.9430893063545227,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000591.png",
+    "score": 0.9421366453170776,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000592.png",
+    "score": 0.9416858851909637,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000593.png",
+    "score": 0.9357006847858429,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000594.png",
+    "score": 0.9400016069412231,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000595.png",
+    "score": 0.9429286420345306,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000596.png",
+    "score": 0.9411083161830902,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000597.png",
+    "score": 0.9421823620796204,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000598.png",
+    "score": 0.9432613253593445,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000599.png",
+    "score": 0.9425730407238007,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000600.png",
+    "score": 0.9451241493225098,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000601.png",
+    "score": 0.9442690014839172,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000602.png",
+    "score": 0.9460569620132446,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000603.png",
+    "score": 0.9459783136844635,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000604.png",
+    "score": 0.9455810487270355,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000605.png",
+    "score": 0.9441906809806824,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000606.png",
+    "score": 0.9387140572071075,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000607.png",
+    "score": 0.9348474144935608,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000608.png",
+    "score": 0.9382871687412262,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000609.png",
+    "score": 0.9387508034706116,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000610.png",
+    "score": 0.9354047179222107,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000611.png",
+    "score": 0.9334301352500916,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000612.png",
+    "score": 0.9329056143760681,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000613.png",
+    "score": 0.9158324599266052,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000614.png",
+    "score": 0.9144378304481506,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000615.png",
+    "score": 0.9189198017120361,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000616.png",
+    "score": 0.9110333323478699,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000617.png",
+    "score": 0.9087709784507751,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000618.png",
+    "score": 0.9069773554801941,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000619.png",
+    "score": 0.9102267026901245,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000620.png",
+    "score": 0.9127829074859619,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000621.png",
+    "score": 0.9189983606338501,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000622.png",
+    "score": 0.9227098226547241,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000623.png",
+    "score": 0.9266798496246338,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000624.png",
+    "score": 0.930401474237442,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000625.png",
+    "score": 0.9348043203353882,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000626.png",
+    "score": 0.935077428817749,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000627.png",
+    "score": 0.9365948438644409,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000628.png",
+    "score": 0.9382350742816925,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000629.png",
+    "score": 0.937757819890976,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000630.png",
+    "score": 0.9384596943855286,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000631.png",
+    "score": 0.9386381804943085,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000632.png",
+    "score": 0.9380649924278259,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000633.png",
+    "score": 0.9298273324966431,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000634.png",
+    "score": 0.9203161597251892,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000635.png",
+    "score": 0.9261568188667297,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000636.png",
+    "score": 0.9268545210361481,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000637.png",
+    "score": 0.9261274337768555,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000638.png",
+    "score": 0.9201855361461639,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000639.png",
+    "score": 0.9314194321632385,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000640.png",
+    "score": 0.9391239583492279,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000641.png",
+    "score": 0.9441060721874237,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000642.png",
+    "score": 0.9492876529693604,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000643.png",
+    "score": 0.9570447206497192,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000644.png",
+    "score": 0.950788676738739,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000645.png",
+    "score": 0.9569547772407532,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000646.png",
+    "score": 0.963996022939682,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000647.png",
+    "score": 0.9701880812644958,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000648.png",
+    "score": 0.977011650800705,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000649.png",
+    "score": 0.981997549533844,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000650.png",
+    "score": 0.9838242530822754,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000651.png",
+    "score": 0.9864280223846436,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000652.png",
+    "score": 0.9868225455284119,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000653.png",
+    "score": 0.9871493577957153,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000654.png",
+    "score": 0.9866699576377869,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000655.png",
+    "score": 0.9865161180496216,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000656.png",
+    "score": 0.9848934412002563,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000657.png",
+    "score": 0.98487988114357,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000658.png",
+    "score": 0.9836883544921875,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000659.png",
+    "score": 0.9846565425395966,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000660.png",
+    "score": 0.9856284856796265,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000661.png",
+    "score": 0.9866025149822235,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000662.png",
+    "score": 0.9870283603668213,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000663.png",
+    "score": 0.9870428442955017,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000664.png",
+    "score": 0.9852929711341858,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000665.png",
+    "score": 0.9823530316352844,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000666.png",
+    "score": 0.9822741448879242,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000667.png",
+    "score": 0.9821208715438843,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000668.png",
+    "score": 0.9821464717388153,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000669.png",
+    "score": 0.9819408059120178,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000670.png",
+    "score": 0.9798257648944855,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000671.png",
+    "score": 0.9776981174945831,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000672.png",
+    "score": 0.9766377806663513,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000673.png",
+    "score": 0.9767137765884399,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000674.png",
+    "score": 0.9768654406070709,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000675.png",
+    "score": 0.977388322353363,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000676.png",
+    "score": 0.9781153202056885,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000677.png",
+    "score": 0.9775019884109497,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000678.png",
+    "score": 0.9775186777114868,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000679.png",
+    "score": 0.9768686890602112,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000680.png",
+    "score": 0.9766454696655273,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000681.png",
+    "score": 0.97603440284729,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000682.png",
+    "score": 0.976381927728653,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000683.png",
+    "score": 0.9752546846866608,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000684.png",
+    "score": 0.9740853905677795,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000685.png",
+    "score": 0.9734178781509399,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000686.png",
+    "score": 0.9714027643203735,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000687.png",
+    "score": 0.9701846241950989,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000688.png",
+    "score": 0.9683061242103577,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000689.png",
+    "score": 0.9630493223667145,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000690.png",
+    "score": 0.9632830917835236,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000691.png",
+    "score": 0.9598594307899475,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000692.png",
+    "score": 0.9562429785728455,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000693.png",
+    "score": 0.9496152997016907,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000694.png",
+    "score": 0.9409773647785187,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000695.png",
+    "score": 0.9374228119850159,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000696.png",
+    "score": 0.927484393119812,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000697.png",
+    "score": 0.9210295081138611,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000698.png",
+    "score": 0.9062854647636414,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000699.png",
+    "score": 0.8842968642711639,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000700.png",
+    "score": 0.8730698227882385,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000701.png",
+    "score": 0.8708988428115845,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000702.png",
+    "score": 0.8729885220527649,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000703.png",
+    "score": 0.8760177195072174,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000704.png",
+    "score": 0.8728131651878357,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000705.png",
+    "score": 0.8823299407958984,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000706.png",
+    "score": 0.8785309791564941,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000707.png",
+    "score": 0.8523326516151428,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000708.png",
+    "score": 0.8545861840248108,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000709.png",
+    "score": 0.8446317911148071,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000710.png",
+    "score": 0.8365079164505005,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000711.png",
+    "score": 0.8326867818832397,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000712.png",
+    "score": 0.8135807514190674,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000713.png",
+    "score": 0.8276574015617371,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000714.png",
+    "score": 0.83402019739151,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000715.png",
+    "score": 0.8419874906539917,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000716.png",
+    "score": 0.8409251570701599,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000717.png",
+    "score": 0.8613613843917847,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000718.png",
+    "score": 0.8555236756801605,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000719.png",
+    "score": 0.8635067939758301,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000720.png",
+    "score": 0.8545674085617065,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000721.png",
+    "score": 0.862980842590332,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000722.png",
+    "score": 0.8683650493621826,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000723.png",
+    "score": 0.8719489276409149,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000724.png",
+    "score": 0.8895328640937805,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000725.png",
+    "score": 0.8926854729652405,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000726.png",
+    "score": 0.9013895988464355,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000727.png",
+    "score": 0.9020509123802185,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000728.png",
+    "score": 0.9090552628040314,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000729.png",
+    "score": 0.9015794992446899,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000730.png",
+    "score": 0.8989571332931519,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000731.png",
+    "score": 0.897807776927948,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000732.png",
+    "score": 0.8907058835029602,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000733.png",
+    "score": 0.8965166509151459,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000734.png",
+    "score": 0.9038263559341431,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000735.png",
+    "score": 0.9085180759429932,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000736.png",
+    "score": 0.9034813344478607,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000737.png",
+    "score": 0.9036408066749573,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000738.png",
+    "score": 0.9091484546661377,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000739.png",
+    "score": 0.9059642553329468,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000740.png",
+    "score": 0.9095718562602997,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000741.png",
+    "score": 0.9161702990531921,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000742.png",
+    "score": 0.9196041226387024,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000743.png",
+    "score": 0.9247397780418396,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000744.png",
+    "score": 0.9233773946762085,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000745.png",
+    "score": 0.9319298267364502,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000746.png",
+    "score": 0.9357303380966187,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000747.png",
+    "score": 0.9410310983657837,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000748.png",
+    "score": 0.9430919885635376,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000749.png",
+    "score": 0.9458612203598022,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000750.png",
+    "score": 0.9476895034313202,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000751.png",
+    "score": 0.9494763016700745,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000752.png",
+    "score": 0.9507031738758087,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000753.png",
+    "score": 0.9515976905822754,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000754.png",
+    "score": 0.950466126203537,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000755.png",
+    "score": 0.9508569538593292,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000756.png",
+    "score": 0.9486793279647827,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000757.png",
+    "score": 0.947420597076416,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000758.png",
+    "score": 0.9469113945960999,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000759.png",
+    "score": 0.9470341801643372,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000760.png",
+    "score": 0.9470894932746887,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000761.png",
+    "score": 0.9476326107978821,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000762.png",
+    "score": 0.9496158957481384,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000763.png",
+    "score": 0.9506701231002808,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000764.png",
+    "score": 0.9517382085323334,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000765.png",
+    "score": 0.9523378610610962,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000766.png",
+    "score": 0.9526432752609253,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000767.png",
+    "score": 0.9539830982685089,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000768.png",
+    "score": 0.955891877412796,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000769.png",
+    "score": 0.9572224617004395,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000770.png",
+    "score": 0.9570631980895996,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000771.png",
+    "score": 0.9581718742847443,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000772.png",
+    "score": 0.959538459777832,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000773.png",
+    "score": 0.9597285687923431,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000774.png",
+    "score": 0.960052877664566,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000775.png",
+    "score": 0.9605852365493774,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000776.png",
+    "score": 0.960609495639801,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000777.png",
+    "score": 0.9611965417861938,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000778.png",
+    "score": 0.9617635607719421,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000779.png",
+    "score": 0.9594143033027649,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000780.png",
+    "score": 0.959269642829895,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000781.png",
+    "score": 0.9589459896087646,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000782.png",
+    "score": 0.9594271183013916,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000783.png",
+    "score": 0.9593133330345154,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000784.png",
+    "score": 0.9603981971740723,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000785.png",
+    "score": 0.9621789753437042,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000786.png",
+    "score": 0.9627433717250824,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000787.png",
+    "score": 0.9653120636940002,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000788.png",
+    "score": 0.9658459424972534,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000789.png",
+    "score": 0.9669330418109894,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000790.png",
+    "score": 0.9668717980384827,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000791.png",
+    "score": 0.9666183590888977,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000792.png",
+    "score": 0.9661493897438049,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000793.png",
+    "score": 0.965427577495575,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000794.png",
+    "score": 0.9647864401340485,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000795.png",
+    "score": 0.9646779596805573,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000796.png",
+    "score": 0.9650211334228516,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000797.png",
+    "score": 0.9656249284744263,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000798.png",
+    "score": 0.9653344452381134,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000799.png",
+    "score": 0.965846061706543,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000800.png",
+    "score": 0.9644672870635986,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000801.png",
+    "score": 0.9647709727287292,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000802.png",
+    "score": 0.9651089012622833,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000803.png",
+    "score": 0.965233713388443,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000804.png",
+    "score": 0.9652779698371887,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000805.png",
+    "score": 0.9653022885322571,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000806.png",
+    "score": 0.9652668535709381,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000807.png",
+    "score": 0.9652107357978821,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000808.png",
+    "score": 0.9647770524024963,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000809.png",
+    "score": 0.9650512039661407,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000810.png",
+    "score": 0.964249849319458,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000811.png",
+    "score": 0.9643217921257019,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000812.png",
+    "score": 0.9638486504554749,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000813.png",
+    "score": 0.9638692140579224,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000814.png",
+    "score": 0.9634532630443573,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000815.png",
+    "score": 0.9628460705280304,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000816.png",
+    "score": 0.9633544087409973,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000817.png",
+    "score": 0.9640246033668518,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000818.png",
+    "score": 0.9648082852363586,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000819.png",
+    "score": 0.9651782512664795,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000820.png",
+    "score": 0.9642342627048492,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000821.png",
+    "score": 0.9640935063362122,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000822.png",
+    "score": 0.9645653963088989,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000823.png",
+    "score": 0.9661189019680023,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000824.png",
+    "score": 0.9670587480068207,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000825.png",
+    "score": 0.9672949314117432,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000826.png",
+    "score": 0.9674004018306732,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000827.png",
+    "score": 0.9677879810333252,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000828.png",
+    "score": 0.9669879674911499,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000829.png",
+    "score": 0.9655592143535614,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000830.png",
+    "score": 0.965261697769165,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000831.png",
+    "score": 0.9634622931480408,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000832.png",
+    "score": 0.9631806313991547,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000833.png",
+    "score": 0.9622078537940979,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000834.png",
+    "score": 0.9619413614273071,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000835.png",
+    "score": 0.9615506827831268,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000836.png",
+    "score": 0.9616043567657471,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000837.png",
+    "score": 0.9616948962211609,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000838.png",
+    "score": 0.9598647952079773,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000839.png",
+    "score": 0.9588826596736908,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000840.png",
+    "score": 0.9584401845932007,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000841.png",
+    "score": 0.9581113457679749,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000842.png",
+    "score": 0.9563191533088684,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000843.png",
+    "score": 0.952721118927002,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000844.png",
+    "score": 0.9514380097389221,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000845.png",
+    "score": 0.9482909142971039,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000846.png",
+    "score": 0.94734126329422,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000847.png",
+    "score": 0.9427051842212677,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000848.png",
+    "score": 0.9434512257575989,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000849.png",
+    "score": 0.9415299892425537,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000850.png",
+    "score": 0.9410592913627625,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000851.png",
+    "score": 0.9409346580505371,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000852.png",
+    "score": 0.9404144287109375,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000853.png",
+    "score": 0.9400184750556946,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000854.png",
+    "score": 0.9407772421836853,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000855.png",
+    "score": 0.9417072534561157,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000856.png",
+    "score": 0.9438056945800781,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000857.png",
+    "score": 0.942957878112793,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000858.png",
+    "score": 0.9389637410640717,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000859.png",
+    "score": 0.9363152980804443,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000860.png",
+    "score": 0.9337966442108154,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000861.png",
+    "score": 0.9337541460990906,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000862.png",
+    "score": 0.9311917424201965,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000863.png",
+    "score": 0.9321505725383759,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000864.png",
+    "score": 0.930090069770813,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000865.png",
+    "score": 0.9331071674823761,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000866.png",
+    "score": 0.9317758679389954,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000867.png",
+    "score": 0.9291271269321442,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000868.png",
+    "score": 0.9246185421943665,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000869.png",
+    "score": 0.9252882599830627,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000870.png",
+    "score": 0.9265721142292023,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000871.png",
+    "score": 0.9269364476203918,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000872.png",
+    "score": 0.9249273538589478,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000873.png",
+    "score": 0.9245425462722778,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000874.png",
+    "score": 0.9207298457622528,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000875.png",
+    "score": 0.9205371737480164,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000876.png",
+    "score": 0.9188320636749268,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000877.png",
+    "score": 0.9174669981002808,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000878.png",
+    "score": 0.9137499332427979,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000879.png",
+    "score": 0.9140126705169678,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000880.png",
+    "score": 0.9105438888072968,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000881.png",
+    "score": 0.9063166975975037,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000882.png",
+    "score": 0.9020264148712158,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000883.png",
+    "score": 0.8960779309272766,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000884.png",
+    "score": 0.8938316404819489,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000885.png",
+    "score": 0.9000668823719025,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000886.png",
+    "score": 0.896757960319519,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000887.png",
+    "score": 0.890421450138092,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000888.png",
+    "score": 0.8908792734146118,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000889.png",
+    "score": 0.8934992253780365,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000890.png",
+    "score": 0.8764709830284119,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000891.png",
+    "score": 0.8798129558563232,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000892.png",
+    "score": 0.8663800358772278,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000893.png",
+    "score": 0.8644973039627075,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000894.png",
+    "score": 0.8715916872024536,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000895.png",
+    "score": 0.865727961063385,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000896.png",
+    "score": 0.879812479019165,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000897.png",
+    "score": 0.8759500980377197,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000898.png",
+    "score": 0.8755835890769958,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000899.png",
+    "score": 0.8692418932914734,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000900.png",
+    "score": 0.877863347530365,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000901.png",
+    "score": 0.8725221157073975,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000902.png",
+    "score": 0.8673993945121765,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000903.png",
+    "score": 0.8738836646080017,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000904.png",
+    "score": 0.8698816299438477,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000905.png",
+    "score": 0.8618333339691162,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000906.png",
+    "score": 0.8746919333934784,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000907.png",
+    "score": 0.8729140758514404,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000908.png",
+    "score": 0.8873781561851501,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000909.png",
+    "score": 0.8967005610466003,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000910.png",
+    "score": 0.9007292687892914,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000911.png",
+    "score": 0.9030060768127441,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000912.png",
+    "score": 0.9052593111991882,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000913.png",
+    "score": 0.9084395170211792,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000914.png",
+    "score": 0.9092486500740051,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000915.png",
+    "score": 0.904371440410614,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000916.png",
+    "score": 0.91188183426857,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000917.png",
+    "score": 0.9084441959857941,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000918.png",
+    "score": 0.9173200726509094,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000919.png",
+    "score": 0.9236300587654114,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000920.png",
+    "score": 0.9262582659721375,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000921.png",
+    "score": 0.9308654069900513,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000922.png",
+    "score": 0.9302010834217072,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000923.png",
+    "score": 0.9310197830200195,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000924.png",
+    "score": 0.9335696697235107,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000925.png",
+    "score": 0.9293324649333954,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000926.png",
+    "score": 0.9292358756065369,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000927.png",
+    "score": 0.926240861415863,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000928.png",
+    "score": 0.9351770877838135,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000929.png",
+    "score": 0.9272380173206329,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000930.png",
+    "score": 0.9202348291873932,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000931.png",
+    "score": 0.9223278760910034,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000932.png",
+    "score": 0.9262134432792664,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000933.png",
+    "score": 0.9322689473628998,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000934.png",
+    "score": 0.9293494820594788,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000935.png",
+    "score": 0.9257051944732666,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000936.png",
+    "score": 0.9277291893959045,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000937.png",
+    "score": 0.9265962839126587,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000938.png",
+    "score": 0.9312588274478912,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000939.png",
+    "score": 0.9383153915405273,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000940.png",
+    "score": 0.942538321018219,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000941.png",
+    "score": 0.9455567300319672,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000942.png",
+    "score": 0.9505493640899658,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000943.png",
+    "score": 0.9527948498725891,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000944.png",
+    "score": 0.9551528990268707,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000945.png",
+    "score": 0.9582686424255371,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000946.png",
+    "score": 0.9608246088027954,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000947.png",
+    "score": 0.9610951542854309,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000948.png",
+    "score": 0.9579358398914337,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000949.png",
+    "score": 0.9550507664680481,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000950.png",
+    "score": 0.9559053778648376,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000951.png",
+    "score": 0.9558993279933929,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000952.png",
+    "score": 0.9571899771690369,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000953.png",
+    "score": 0.9573626816272736,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000954.png",
+    "score": 0.9579947888851166,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000955.png",
+    "score": 0.9592579901218414,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000956.png",
+    "score": 0.9601968824863434,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000957.png",
+    "score": 0.961323618888855,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000958.png",
+    "score": 0.9632372558116913,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000959.png",
+    "score": 0.9646437764167786,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000960.png",
+    "score": 0.9650633633136749,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000961.png",
+    "score": 0.9653795957565308,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000962.png",
+    "score": 0.9658220410346985,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000963.png",
+    "score": 0.9658212661743164,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000964.png",
+    "score": 0.9680425524711609,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000965.png",
+    "score": 0.9692642390727997,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000966.png",
+    "score": 0.9700460135936737,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000967.png",
+    "score": 0.9706712961196899,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000968.png",
+    "score": 0.971369206905365,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000969.png",
+    "score": 0.9689576625823975,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000970.png",
+    "score": 0.9673017263412476,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000971.png",
+    "score": 0.9670745432376862,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000972.png",
+    "score": 0.9688417017459869,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000973.png",
+    "score": 0.9712418615818024,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000974.png",
+    "score": 0.9745150804519653,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000975.png",
+    "score": 0.9759857356548309,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000976.png",
+    "score": 0.9767946004867554,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000977.png",
+    "score": 0.979216992855072,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000978.png",
+    "score": 0.9824169874191284,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000979.png",
+    "score": 0.9835178256034851,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000980.png",
+    "score": 0.9857712388038635,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000981.png",
+    "score": 0.9870106279850006,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000982.png",
+    "score": 0.9885956048965454,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000983.png",
+    "score": 0.9894429445266724,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000984.png",
+    "score": 0.9895793795585632,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000985.png",
+    "score": 0.9893248081207275,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000986.png",
+    "score": 0.9901735782623291,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000987.png",
+    "score": 0.988308846950531,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000988.png",
+    "score": 0.9899199604988098,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000989.png",
+    "score": 0.9899271726608276,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000990.png",
+    "score": 0.9894428551197052,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000991.png",
+    "score": 0.9910563826560974,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000992.png",
+    "score": 0.9918949604034424,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000993.png",
+    "score": 0.9912697672843933,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000994.png",
+    "score": 0.9913531541824341,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000995.png",
+    "score": 0.9912647604942322,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000996.png",
+    "score": 0.9907522797584534,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000997.png",
+    "score": 0.9871988892555237,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000998.png",
+    "score": 0.9867948293685913,
+    "is_positive": true
+  },
+  {
+    "image": "frame_000999.png",
+    "score": 0.9852420687675476,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001000.png",
+    "score": 0.9859505295753479,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001001.png",
+    "score": 0.9874265789985657,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001002.png",
+    "score": 0.9881041646003723,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001003.png",
+    "score": 0.9879641234874725,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001004.png",
+    "score": 0.9872279167175293,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001005.png",
+    "score": 0.9863835573196411,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001006.png",
+    "score": 0.9864929020404816,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001007.png",
+    "score": 0.985320121049881,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001008.png",
+    "score": 0.9837717711925507,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001009.png",
+    "score": 0.9823952913284302,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001010.png",
+    "score": 0.9809790253639221,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001011.png",
+    "score": 0.9800902009010315,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001012.png",
+    "score": 0.9783684611320496,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001013.png",
+    "score": 0.9779098033905029,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001014.png",
+    "score": 0.9764001965522766,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001015.png",
+    "score": 0.9696128964424133,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001016.png",
+    "score": 0.968370109796524,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001017.png",
+    "score": 0.9665879607200623,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001018.png",
+    "score": 0.9648997783660889,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001019.png",
+    "score": 0.9632876515388489,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001020.png",
+    "score": 0.9642686545848846,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001021.png",
+    "score": 0.9633555710315704,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001022.png",
+    "score": 0.9656121730804443,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001023.png",
+    "score": 0.9638137519359589,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001024.png",
+    "score": 0.9624462127685547,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001025.png",
+    "score": 0.9561032354831696,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001026.png",
+    "score": 0.9539207518100739,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001027.png",
+    "score": 0.9535870850086212,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001028.png",
+    "score": 0.9535378217697144,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001029.png",
+    "score": 0.9519238471984863,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001030.png",
+    "score": 0.953489750623703,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001031.png",
+    "score": 0.952715277671814,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001032.png",
+    "score": 0.9516057074069977,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001033.png",
+    "score": 0.9494329690933228,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001034.png",
+    "score": 0.9481281042098999,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001035.png",
+    "score": 0.9455183148384094,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001036.png",
+    "score": 0.9394686818122864,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001037.png",
+    "score": 0.9408898949623108,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001038.png",
+    "score": 0.9451017379760742,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001039.png",
+    "score": 0.9462097883224487,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001040.png",
+    "score": 0.9470145106315613,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001041.png",
+    "score": 0.9452110230922699,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001042.png",
+    "score": 0.9533255398273468,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001043.png",
+    "score": 0.9547489881515503,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001044.png",
+    "score": 0.9605245590209961,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001045.png",
+    "score": 0.9657641053199768,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001046.png",
+    "score": 0.9678524136543274,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001047.png",
+    "score": 0.9732490181922913,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001048.png",
+    "score": 0.9763880372047424,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001049.png",
+    "score": 0.9784440994262695,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001050.png",
+    "score": 0.9803439676761627,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001051.png",
+    "score": 0.982377678155899,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001052.png",
+    "score": 0.9849244356155396,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001053.png",
+    "score": 0.9865448772907257,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001054.png",
+    "score": 0.9878999590873718,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001055.png",
+    "score": 0.9884011149406433,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001056.png",
+    "score": 0.9885669052600861,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001057.png",
+    "score": 0.989097535610199,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001058.png",
+    "score": 0.9897189736366272,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001059.png",
+    "score": 0.9908298254013062,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001060.png",
+    "score": 0.9913309216499329,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001061.png",
+    "score": 0.9917163848876953,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001062.png",
+    "score": 0.9924777150154114,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001063.png",
+    "score": 0.9932260513305664,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001064.png",
+    "score": 0.994077056646347,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001065.png",
+    "score": 0.9945451021194458,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001066.png",
+    "score": 0.9952419996261597,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001067.png",
+    "score": 0.9955154061317444,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001068.png",
+    "score": 0.9951164722442627,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001069.png",
+    "score": 0.995116800069809,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001070.png",
+    "score": 0.9950071275234222,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001071.png",
+    "score": 0.9949468076229095,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001072.png",
+    "score": 0.994913637638092,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001073.png",
+    "score": 0.9945657849311829,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001074.png",
+    "score": 0.9943744540214539,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001075.png",
+    "score": 0.9943791031837463,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001076.png",
+    "score": 0.9942718148231506,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001077.png",
+    "score": 0.9941029250621796,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001078.png",
+    "score": 0.9940100312232971,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001079.png",
+    "score": 0.9938490688800812,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001080.png",
+    "score": 0.9933210909366608,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001081.png",
+    "score": 0.9930306971073151,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001082.png",
+    "score": 0.9925414025783539,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001083.png",
+    "score": 0.9921624064445496,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001084.png",
+    "score": 0.9910750985145569,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001085.png",
+    "score": 0.990586906671524,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001086.png",
+    "score": 0.9895249605178833,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001087.png",
+    "score": 0.9879765212535858,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001088.png",
+    "score": 0.9863558411598206,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001089.png",
+    "score": 0.9854644536972046,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001090.png",
+    "score": 0.981299877166748,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001091.png",
+    "score": 0.9762871861457825,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001092.png",
+    "score": 0.9670482873916626,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001093.png",
+    "score": 0.9621866345405579,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001094.png",
+    "score": 0.9554233551025391,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001095.png",
+    "score": 0.9487982988357544,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001096.png",
+    "score": 0.9432013630867004,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001097.png",
+    "score": 0.942808598279953,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001098.png",
+    "score": 0.9466453194618225,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001099.png",
+    "score": 0.9480108916759491,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001100.png",
+    "score": 0.9501291215419769,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001101.png",
+    "score": 0.9477052986621857,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001102.png",
+    "score": 0.9519264101982117,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001103.png",
+    "score": 0.9571044445037842,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001104.png",
+    "score": 0.9589636027812958,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001105.png",
+    "score": 0.960608720779419,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001106.png",
+    "score": 0.9608421325683594,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001107.png",
+    "score": 0.9610803723335266,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001108.png",
+    "score": 0.958574652671814,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001109.png",
+    "score": 0.9554997682571411,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001110.png",
+    "score": 0.9569945931434631,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001111.png",
+    "score": 0.956315279006958,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001112.png",
+    "score": 0.9565398097038269,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001113.png",
+    "score": 0.9544538259506226,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001114.png",
+    "score": 0.9555160403251648,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001115.png",
+    "score": 0.9549527764320374,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001116.png",
+    "score": 0.9465863406658173,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001117.png",
+    "score": 0.9477953314781189,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001118.png",
+    "score": 0.9507063627243042,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001119.png",
+    "score": 0.9556155502796173,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001120.png",
+    "score": 0.9553859233856201,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001121.png",
+    "score": 0.9579329490661621,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001122.png",
+    "score": 0.9599930047988892,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001123.png",
+    "score": 0.9641411900520325,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001124.png",
+    "score": 0.9688518643379211,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001125.png",
+    "score": 0.971467137336731,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001126.png",
+    "score": 0.9727224707603455,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001127.png",
+    "score": 0.9742551743984222,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001128.png",
+    "score": 0.9744145572185516,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001129.png",
+    "score": 0.9759548902511597,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001130.png",
+    "score": 0.9767532348632812,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001131.png",
+    "score": 0.9781200587749481,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001132.png",
+    "score": 0.9787863492965698,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001133.png",
+    "score": 0.9792993068695068,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001134.png",
+    "score": 0.9760901927947998,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001135.png",
+    "score": 0.9752773344516754,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001136.png",
+    "score": 0.9763439297676086,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001137.png",
+    "score": 0.9777606725692749,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001138.png",
+    "score": 0.9813108444213867,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001139.png",
+    "score": 0.9846672415733337,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001140.png",
+    "score": 0.9864888489246368,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001141.png",
+    "score": 0.9877959489822388,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001142.png",
+    "score": 0.9880753755569458,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001143.png",
+    "score": 0.9900600910186768,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001144.png",
+    "score": 0.9924090504646301,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001145.png",
+    "score": 0.9931028187274933,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001146.png",
+    "score": 0.9934844076633453,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001147.png",
+    "score": 0.9934501051902771,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001148.png",
+    "score": 0.9936509728431702,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001149.png",
+    "score": 0.9938713312149048,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001150.png",
+    "score": 0.9946517050266266,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001151.png",
+    "score": 0.9951907992362976,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001152.png",
+    "score": 0.9958168268203735,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001153.png",
+    "score": 0.9962710440158844,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001154.png",
+    "score": 0.9961912631988525,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001155.png",
+    "score": 0.9953783452510834,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001156.png",
+    "score": 0.9946016669273376,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001157.png",
+    "score": 0.9935153126716614,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001158.png",
+    "score": 0.9923684597015381,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001159.png",
+    "score": 0.9917377233505249,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001160.png",
+    "score": 0.9904874861240387,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001161.png",
+    "score": 0.9886157810688019,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001162.png",
+    "score": 0.9861337244510651,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001163.png",
+    "score": 0.9834502339363098,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001164.png",
+    "score": 0.9814249873161316,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001165.png",
+    "score": 0.9790171384811401,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001166.png",
+    "score": 0.9779980182647705,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001167.png",
+    "score": 0.9757041037082672,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001168.png",
+    "score": 0.973490297794342,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001169.png",
+    "score": 0.9736642837524414,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001170.png",
+    "score": 0.9734914302825928,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001171.png",
+    "score": 0.9728958606719971,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001172.png",
+    "score": 0.9714941084384918,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001173.png",
+    "score": 0.9709428548812866,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001174.png",
+    "score": 0.9658667147159576,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001175.png",
+    "score": 0.9695689976215363,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001176.png",
+    "score": 0.9716662764549255,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001177.png",
+    "score": 0.9712328910827637,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001178.png",
+    "score": 0.9722030162811279,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001179.png",
+    "score": 0.9704294204711914,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001180.png",
+    "score": 0.9756307303905487,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001181.png",
+    "score": 0.9791506230831146,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001182.png",
+    "score": 0.9789747595787048,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001183.png",
+    "score": 0.9800620973110199,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001184.png",
+    "score": 0.9815634489059448,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001185.png",
+    "score": 0.9824990630149841,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001186.png",
+    "score": 0.982659637928009,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001187.png",
+    "score": 0.9828822314739227,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001188.png",
+    "score": 0.9821257591247559,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001189.png",
+    "score": 0.9809406697750092,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001190.png",
+    "score": 0.9800447225570679,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001191.png",
+    "score": 0.9791369140148163,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001192.png",
+    "score": 0.9762816429138184,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001193.png",
+    "score": 0.973942220211029,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001194.png",
+    "score": 0.9716423451900482,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001195.png",
+    "score": 0.9699623882770538,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001196.png",
+    "score": 0.9657913446426392,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001197.png",
+    "score": 0.9618127048015594,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001198.png",
+    "score": 0.958196222782135,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001199.png",
+    "score": 0.9511656165122986,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001200.png",
+    "score": 0.9402919709682465,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001201.png",
+    "score": 0.9368505477905273,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001202.png",
+    "score": 0.92745041847229,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001203.png",
+    "score": 0.912160724401474,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001204.png",
+    "score": 0.9181312918663025,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001205.png",
+    "score": 0.9088052213191986,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001206.png",
+    "score": 0.8928116261959076,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001207.png",
+    "score": 0.8634218871593475,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001208.png",
+    "score": 0.8354167342185974,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001209.png",
+    "score": 0.8093815445899963,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001210.png",
+    "score": 0.8275085091590881,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001211.png",
+    "score": 0.8311672806739807,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001212.png",
+    "score": 0.8476693630218506,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001213.png",
+    "score": 0.8771068453788757,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001214.png",
+    "score": 0.8886831998825073,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001215.png",
+    "score": 0.9006288051605225,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001216.png",
+    "score": 0.9170987606048584,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001217.png",
+    "score": 0.9260351657867432,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001218.png",
+    "score": 0.9169243276119232,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001219.png",
+    "score": 0.9144890308380127,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001220.png",
+    "score": 0.9074977934360504,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001221.png",
+    "score": 0.9073024988174438,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001222.png",
+    "score": 0.8988454937934875,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001223.png",
+    "score": 0.8771165013313293,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001224.png",
+    "score": 0.8552534580230713,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001225.png",
+    "score": 0.8163855075836182,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001226.png",
+    "score": 0.796912431716919,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001227.png",
+    "score": 0.7964439392089844,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001228.png",
+    "score": 0.7533761858940125,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001229.png",
+    "score": 0.8001723289489746,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001230.png",
+    "score": 0.8015327751636505,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001231.png",
+    "score": 0.7966780066490173,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001232.png",
+    "score": 0.8190444707870483,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001233.png",
+    "score": 0.8237654864788055,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001234.png",
+    "score": 0.8164987564086914,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001235.png",
+    "score": 0.8288228511810303,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001236.png",
+    "score": 0.8224297165870667,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001237.png",
+    "score": 0.8272020816802979,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001238.png",
+    "score": 0.8241750001907349,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001239.png",
+    "score": 0.8310062289237976,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001240.png",
+    "score": 0.8213722705841064,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001241.png",
+    "score": 0.8240081667900085,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001242.png",
+    "score": 0.8275697231292725,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001243.png",
+    "score": 0.8326169848442078,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001244.png",
+    "score": 0.8354784250259399,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001245.png",
+    "score": 0.8335365653038025,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001246.png",
+    "score": 0.8619607388973236,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001247.png",
+    "score": 0.8912170827388763,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001248.png",
+    "score": 0.9223593473434448,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001249.png",
+    "score": 0.9377908110618591,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001250.png",
+    "score": 0.9377331733703613,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001251.png",
+    "score": 0.9278137981891632,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001252.png",
+    "score": 0.9178171157836914,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001253.png",
+    "score": 0.8749288022518158,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001254.png",
+    "score": 0.842526763677597,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001255.png",
+    "score": 0.8299058377742767,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001256.png",
+    "score": 0.812441885471344,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001257.png",
+    "score": 0.8004807233810425,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001258.png",
+    "score": 0.8142023980617523,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001259.png",
+    "score": 0.8078699111938477,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001260.png",
+    "score": 0.8103562891483307,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001261.png",
+    "score": 0.813152015209198,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001262.png",
+    "score": 0.8194260001182556,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001263.png",
+    "score": 0.8250983953475952,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001264.png",
+    "score": 0.8269730806350708,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001265.png",
+    "score": 0.8254528641700745,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001266.png",
+    "score": 0.8292432427406311,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001267.png",
+    "score": 0.8399094939231873,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001268.png",
+    "score": 0.8534663319587708,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001269.png",
+    "score": 0.8575900793075562,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001270.png",
+    "score": 0.8518259227275848,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001271.png",
+    "score": 0.86109459400177,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001272.png",
+    "score": 0.8483456969261169,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001273.png",
+    "score": 0.85952228307724,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001274.png",
+    "score": 0.8622270226478577,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001275.png",
+    "score": 0.8590637445449829,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001276.png",
+    "score": 0.8632809519767761,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001277.png",
+    "score": 0.8716062903404236,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001278.png",
+    "score": 0.8754039704799652,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001279.png",
+    "score": 0.8733056783676147,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001280.png",
+    "score": 0.8789875507354736,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001281.png",
+    "score": 0.888936311006546,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001282.png",
+    "score": 0.8726918399333954,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001283.png",
+    "score": 0.8908447623252869,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001284.png",
+    "score": 0.8909655809402466,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001285.png",
+    "score": 0.8779582977294922,
+    "is_positive": true
+  },
+  {
+    "image": "frame_001286.png",
+    "score": 0.9075352549552917,
+    "is_positive": true
+  }
+]

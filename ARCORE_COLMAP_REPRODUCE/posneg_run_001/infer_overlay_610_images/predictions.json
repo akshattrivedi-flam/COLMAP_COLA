@@ -1,0 +1,2997 @@
+[
+  {
+    "image": "frame_0000.jpg",
+    "score": 0.010731820948421955,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0001.jpg",
+    "score": 0.010480282828211784,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0002.jpg",
+    "score": 0.010415189899504185,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0003.jpg",
+    "score": 0.010434496216475964,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0004.jpg",
+    "score": 0.010423887521028519,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0005.jpg",
+    "score": 0.011565549299120903,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0006.jpg",
+    "score": 0.012024188414216042,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0007.jpg",
+    "score": 0.01239545363932848,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0008.jpg",
+    "score": 0.012879658490419388,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0009.jpg",
+    "score": 0.012260830029845238,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0010.jpg",
+    "score": 0.011830956675112247,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0011.jpg",
+    "score": 0.011488083750009537,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0012.jpg",
+    "score": 0.011079448275268078,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0013.jpg",
+    "score": 0.010685055516660213,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0014.jpg",
+    "score": 0.010316290892660618,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0015.jpg",
+    "score": 0.010072560980916023,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0016.jpg",
+    "score": 0.010175544768571854,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0017.jpg",
+    "score": 0.009657993912696838,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0018.jpg",
+    "score": 0.009968572296202183,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0019.jpg",
+    "score": 0.010533496737480164,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0020.jpg",
+    "score": 0.010964632034301758,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0021.jpg",
+    "score": 0.011493267491459846,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0022.jpg",
+    "score": 0.011442320421338081,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0023.jpg",
+    "score": 0.013396672904491425,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0024.jpg",
+    "score": 0.014030319638550282,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0025.jpg",
+    "score": 0.016399694606661797,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0026.jpg",
+    "score": 0.01853243261575699,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0027.jpg",
+    "score": 0.018863193690776825,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0028.jpg",
+    "score": 0.017661983147263527,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0029.jpg",
+    "score": 0.017355959862470627,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0030.jpg",
+    "score": 0.02052917331457138,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0031.jpg",
+    "score": 0.0285270344465971,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0032.jpg",
+    "score": 0.03598656505346298,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0033.jpg",
+    "score": 0.04615209251642227,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0034.jpg",
+    "score": 0.057096730917692184,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0035.jpg",
+    "score": 0.07472670078277588,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0036.jpg",
+    "score": 0.08720917999744415,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0037.jpg",
+    "score": 0.09316161274909973,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0038.jpg",
+    "score": 0.09522745013237,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0039.jpg",
+    "score": 0.09417448192834854,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0040.jpg",
+    "score": 0.09215865284204483,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0041.jpg",
+    "score": 0.08220477402210236,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0042.jpg",
+    "score": 0.07399900257587433,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0043.jpg",
+    "score": 0.06678782403469086,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0044.jpg",
+    "score": 0.06216811388731003,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0045.jpg",
+    "score": 0.05619534105062485,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0046.jpg",
+    "score": 0.053911007940769196,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0047.jpg",
+    "score": 0.05118477717041969,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0048.jpg",
+    "score": 0.04816695302724838,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0049.jpg",
+    "score": 0.04784801974892616,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0050.jpg",
+    "score": 0.04855189472436905,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0051.jpg",
+    "score": 0.05398160219192505,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0052.jpg",
+    "score": 0.06299100816249847,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0053.jpg",
+    "score": 0.08020234853029251,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0054.jpg",
+    "score": 0.08439582586288452,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0055.jpg",
+    "score": 0.08786427229642868,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0056.jpg",
+    "score": 0.08060944080352783,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0057.jpg",
+    "score": 0.0627717599272728,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0058.jpg",
+    "score": 0.049099259078502655,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0059.jpg",
+    "score": 0.03915129974484444,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0060.jpg",
+    "score": 0.03392668068408966,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0061.jpg",
+    "score": 0.0354212149977684,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0062.jpg",
+    "score": 0.03872118890285492,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0063.jpg",
+    "score": 0.05046481266617775,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0064.jpg",
+    "score": 0.05981114134192467,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0065.jpg",
+    "score": 0.0739276334643364,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0066.jpg",
+    "score": 0.08769622445106506,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0067.jpg",
+    "score": 0.10317692905664444,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0068.jpg",
+    "score": 0.12077733874320984,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0069.jpg",
+    "score": 0.13462595641613007,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0070.jpg",
+    "score": 0.1602451056241989,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0071.jpg",
+    "score": 0.1629982888698578,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0072.jpg",
+    "score": 0.15865536034107208,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0073.jpg",
+    "score": 0.14530600607395172,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0074.jpg",
+    "score": 0.13103680312633514,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0075.jpg",
+    "score": 0.11068432033061981,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0076.jpg",
+    "score": 0.09128913283348083,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0077.jpg",
+    "score": 0.07842787355184555,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0078.jpg",
+    "score": 0.06723024696111679,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0079.jpg",
+    "score": 0.05949603021144867,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0080.jpg",
+    "score": 0.05361809954047203,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0081.jpg",
+    "score": 0.04937145859003067,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0082.jpg",
+    "score": 0.04494132846593857,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0083.jpg",
+    "score": 0.049209024757146835,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0084.jpg",
+    "score": 0.04506710544228554,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0085.jpg",
+    "score": 0.050049521028995514,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0086.jpg",
+    "score": 0.051276419311761856,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0087.jpg",
+    "score": 0.06092125549912453,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0088.jpg",
+    "score": 0.0756450891494751,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0089.jpg",
+    "score": 0.07821637392044067,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0090.jpg",
+    "score": 0.09547485411167145,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0091.jpg",
+    "score": 0.11414982378482819,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0092.jpg",
+    "score": 0.12341177463531494,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0093.jpg",
+    "score": 0.1295548677444458,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0094.jpg",
+    "score": 0.14302539825439453,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0095.jpg",
+    "score": 0.1431414783000946,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0096.jpg",
+    "score": 0.149778813123703,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0097.jpg",
+    "score": 0.14231887459754944,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0098.jpg",
+    "score": 0.14274604618549347,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0099.jpg",
+    "score": 0.13894449174404144,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0100.jpg",
+    "score": 0.14889132976531982,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0101.jpg",
+    "score": 0.13237468898296356,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0102.jpg",
+    "score": 0.12512332201004028,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0103.jpg",
+    "score": 0.1143939271569252,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0104.jpg",
+    "score": 0.10895072668790817,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0105.jpg",
+    "score": 0.0935068354010582,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0106.jpg",
+    "score": 0.08188098669052124,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0107.jpg",
+    "score": 0.06966747343540192,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0108.jpg",
+    "score": 0.060642436146736145,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0109.jpg",
+    "score": 0.05119277164340019,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0110.jpg",
+    "score": 0.04287726432085037,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0111.jpg",
+    "score": 0.03714461624622345,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0112.jpg",
+    "score": 0.03379461541771889,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0113.jpg",
+    "score": 0.030817169696092606,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0114.jpg",
+    "score": 0.030608035624027252,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0115.jpg",
+    "score": 0.02985098958015442,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0116.jpg",
+    "score": 0.02890864387154579,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0117.jpg",
+    "score": 0.027950894087553024,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0118.jpg",
+    "score": 0.027658885344862938,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0119.jpg",
+    "score": 0.029450755566358566,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0120.jpg",
+    "score": 0.030358335003256798,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0121.jpg",
+    "score": 0.03161253780126572,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0122.jpg",
+    "score": 0.033469341695308685,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0123.jpg",
+    "score": 0.03673236072063446,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0124.jpg",
+    "score": 0.04010720178484917,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0125.jpg",
+    "score": 0.04431924968957901,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0126.jpg",
+    "score": 0.048020169138908386,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0127.jpg",
+    "score": 0.05171152204275131,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0128.jpg",
+    "score": 0.05159648135304451,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0129.jpg",
+    "score": 0.052680667489767075,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0130.jpg",
+    "score": 0.05255590379238129,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0142.jpg",
+    "score": 0.05158935859799385,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0143.jpg",
+    "score": 0.05014203488826752,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0144.jpg",
+    "score": 0.048326604068279266,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0145.jpg",
+    "score": 0.04686395823955536,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0146.jpg",
+    "score": 0.04719466343522072,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0147.jpg",
+    "score": 0.04720057547092438,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0148.jpg",
+    "score": 0.04527094215154648,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0149.jpg",
+    "score": 0.04150035232305527,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0150.jpg",
+    "score": 0.0376359187066555,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0151.jpg",
+    "score": 0.03277996927499771,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0152.jpg",
+    "score": 0.02896917052567005,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0153.jpg",
+    "score": 0.025554858148097992,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0154.jpg",
+    "score": 0.023369845002889633,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0155.jpg",
+    "score": 0.022069355472922325,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0156.jpg",
+    "score": 0.02084975130856037,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0157.jpg",
+    "score": 0.018947595730423927,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0158.jpg",
+    "score": 0.017827320843935013,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0159.jpg",
+    "score": 0.017750050872564316,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0160.jpg",
+    "score": 0.015255417674779892,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0161.jpg",
+    "score": 0.014823175966739655,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0162.jpg",
+    "score": 0.014682279899716377,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0163.jpg",
+    "score": 0.015493773855268955,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0164.jpg",
+    "score": 0.016116023063659668,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0165.jpg",
+    "score": 0.02122623845934868,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0166.jpg",
+    "score": 0.025560248643159866,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0167.jpg",
+    "score": 0.02949807234108448,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0168.jpg",
+    "score": 0.036183375865221024,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0169.jpg",
+    "score": 0.04148177057504654,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0170.jpg",
+    "score": 0.04381889849901199,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0171.jpg",
+    "score": 0.044425640255212784,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0172.jpg",
+    "score": 0.04465219005942345,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0173.jpg",
+    "score": 0.04516170918941498,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0174.jpg",
+    "score": 0.04416033253073692,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0175.jpg",
+    "score": 0.04211009666323662,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0176.jpg",
+    "score": 0.039617687463760376,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0177.jpg",
+    "score": 0.03576039522886276,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0178.jpg",
+    "score": 0.03069414012134075,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0179.jpg",
+    "score": 0.02589385025203228,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0180.jpg",
+    "score": 0.02146610990166664,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0181.jpg",
+    "score": 0.018647057935595512,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0182.jpg",
+    "score": 0.017712468281388283,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0183.jpg",
+    "score": 0.016372710466384888,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0184.jpg",
+    "score": 0.015415008179843426,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0185.jpg",
+    "score": 0.017586123198270798,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0186.jpg",
+    "score": 0.020478786900639534,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0187.jpg",
+    "score": 0.029280435293912888,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0188.jpg",
+    "score": 0.042370084673166275,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0189.jpg",
+    "score": 0.059676218777894974,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0190.jpg",
+    "score": 0.07105956226587296,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0191.jpg",
+    "score": 0.08395794034004211,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0192.jpg",
+    "score": 0.0961187332868576,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0193.jpg",
+    "score": 0.10900980234146118,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0194.jpg",
+    "score": 0.11745300889015198,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0195.jpg",
+    "score": 0.11665486544370651,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0196.jpg",
+    "score": 0.11161008477210999,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0197.jpg",
+    "score": 0.10594919323921204,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0198.jpg",
+    "score": 0.10092965513467789,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0199.jpg",
+    "score": 0.09388332813978195,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0200.jpg",
+    "score": 0.089620441198349,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0201.jpg",
+    "score": 0.08197411894798279,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0202.jpg",
+    "score": 0.08103299140930176,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0203.jpg",
+    "score": 0.08255608379840851,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0204.jpg",
+    "score": 0.08990418910980225,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0205.jpg",
+    "score": 0.09959792345762253,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0206.jpg",
+    "score": 0.11916458606719971,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0207.jpg",
+    "score": 0.12939774990081787,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0208.jpg",
+    "score": 0.1438511610031128,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0209.jpg",
+    "score": 0.17703667283058167,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0210.jpg",
+    "score": 0.18167871236801147,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0211.jpg",
+    "score": 0.20208820700645447,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0212.jpg",
+    "score": 0.22090254724025726,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0213.jpg",
+    "score": 0.23524051904678345,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0214.jpg",
+    "score": 0.2601584792137146,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0215.jpg",
+    "score": 0.27154284715652466,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0216.jpg",
+    "score": 0.29455849528312683,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0217.jpg",
+    "score": 0.3139497935771942,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0218.jpg",
+    "score": 0.3183743953704834,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0219.jpg",
+    "score": 0.32057011127471924,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0220.jpg",
+    "score": 0.32864880561828613,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0221.jpg",
+    "score": 0.3440465033054352,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0222.jpg",
+    "score": 0.33850526809692383,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0223.jpg",
+    "score": 0.34090831875801086,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0224.jpg",
+    "score": 0.346598744392395,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0225.jpg",
+    "score": 0.333812952041626,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0226.jpg",
+    "score": 0.32357633113861084,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0227.jpg",
+    "score": 0.32040935754776,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0228.jpg",
+    "score": 0.3143710792064667,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0229.jpg",
+    "score": 0.32002636790275574,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0230.jpg",
+    "score": 0.3284415006637573,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0231.jpg",
+    "score": 0.33748310804367065,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0232.jpg",
+    "score": 0.33688730001449585,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0233.jpg",
+    "score": 0.3539043366909027,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0234.jpg",
+    "score": 0.36740317940711975,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0235.jpg",
+    "score": 0.3767259120941162,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0236.jpg",
+    "score": 0.3976285457611084,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0237.jpg",
+    "score": 0.4048212170600891,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0238.jpg",
+    "score": 0.42524799704551697,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0239.jpg",
+    "score": 0.4208671748638153,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0240.jpg",
+    "score": 0.40713798999786377,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0241.jpg",
+    "score": 0.3910518288612366,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0242.jpg",
+    "score": 0.3818318545818329,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0243.jpg",
+    "score": 0.38779667019844055,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0244.jpg",
+    "score": 0.3893641233444214,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0245.jpg",
+    "score": 0.3913731575012207,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0246.jpg",
+    "score": 0.35300928354263306,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0247.jpg",
+    "score": 0.30997365713119507,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0248.jpg",
+    "score": 0.24761059880256653,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0249.jpg",
+    "score": 0.207720085978508,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0250.jpg",
+    "score": 0.16713976860046387,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0251.jpg",
+    "score": 0.12864843010902405,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0252.jpg",
+    "score": 0.1067638248205185,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0253.jpg",
+    "score": 0.08935246616601944,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0254.jpg",
+    "score": 0.074778713285923,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0255.jpg",
+    "score": 0.06667833775281906,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0256.jpg",
+    "score": 0.06305225193500519,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0257.jpg",
+    "score": 0.06668908149003983,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0258.jpg",
+    "score": 0.06962836533784866,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0259.jpg",
+    "score": 0.07473937422037125,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0260.jpg",
+    "score": 0.07709812372922897,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0261.jpg",
+    "score": 0.09635253250598907,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0262.jpg",
+    "score": 0.1064227968454361,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0263.jpg",
+    "score": 0.11411533504724503,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0264.jpg",
+    "score": 0.11141862720251083,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0265.jpg",
+    "score": 0.10809820145368576,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0266.jpg",
+    "score": 0.10475359857082367,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0267.jpg",
+    "score": 0.09139159321784973,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0268.jpg",
+    "score": 0.08393801003694534,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0269.jpg",
+    "score": 0.09680750221014023,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0270.jpg",
+    "score": 0.10657575726509094,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0271.jpg",
+    "score": 0.12148106098175049,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0272.jpg",
+    "score": 0.13633745908737183,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0273.jpg",
+    "score": 0.15711084008216858,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0274.jpg",
+    "score": 0.17396244406700134,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0275.jpg",
+    "score": 0.1989080160856247,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0276.jpg",
+    "score": 0.21884264051914215,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0277.jpg",
+    "score": 0.22085461020469666,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0278.jpg",
+    "score": 0.235574871301651,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0279.jpg",
+    "score": 0.2409599870443344,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0280.jpg",
+    "score": 0.2496352344751358,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0281.jpg",
+    "score": 0.25547289848327637,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0282.jpg",
+    "score": 0.2502209544181824,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0283.jpg",
+    "score": 0.24170057475566864,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0284.jpg",
+    "score": 0.2529500424861908,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0285.jpg",
+    "score": 0.25342798233032227,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0286.jpg",
+    "score": 0.25763869285583496,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0287.jpg",
+    "score": 0.2642653286457062,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0288.jpg",
+    "score": 0.26073306798934937,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0289.jpg",
+    "score": 0.25026094913482666,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0290.jpg",
+    "score": 0.23425337672233582,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0291.jpg",
+    "score": 0.21379853785037994,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0292.jpg",
+    "score": 0.20177683234214783,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0293.jpg",
+    "score": 0.18848808109760284,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0294.jpg",
+    "score": 0.17865562438964844,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0295.jpg",
+    "score": 0.1763594150543213,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0296.jpg",
+    "score": 0.17522849142551422,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0297.jpg",
+    "score": 0.18757712841033936,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0298.jpg",
+    "score": 0.18894526362419128,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0299.jpg",
+    "score": 0.19030943512916565,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0300.jpg",
+    "score": 0.1968328058719635,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0301.jpg",
+    "score": 0.20590049028396606,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0302.jpg",
+    "score": 0.19959747791290283,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0303.jpg",
+    "score": 0.18909625709056854,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0304.jpg",
+    "score": 0.18080660700798035,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0305.jpg",
+    "score": 0.17645764350891113,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0306.jpg",
+    "score": 0.1732407808303833,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0307.jpg",
+    "score": 0.16902080178260803,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0308.jpg",
+    "score": 0.16952049732208252,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0309.jpg",
+    "score": 0.16666629910469055,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0310.jpg",
+    "score": 0.15738600492477417,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0311.jpg",
+    "score": 0.1563686728477478,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0312.jpg",
+    "score": 0.1593436598777771,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0313.jpg",
+    "score": 0.16010494530200958,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0314.jpg",
+    "score": 0.1593274623155594,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0315.jpg",
+    "score": 0.15453767776489258,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0316.jpg",
+    "score": 0.15279918909072876,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0317.jpg",
+    "score": 0.14317557215690613,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0318.jpg",
+    "score": 0.13841629028320312,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0319.jpg",
+    "score": 0.13208068907260895,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0320.jpg",
+    "score": 0.11710594594478607,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0321.jpg",
+    "score": 0.10943202674388885,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0322.jpg",
+    "score": 0.09998767822980881,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0323.jpg",
+    "score": 0.08795211464166641,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0324.jpg",
+    "score": 0.07919787615537643,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0325.jpg",
+    "score": 0.0730685442686081,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0326.jpg",
+    "score": 0.06837786734104156,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0327.jpg",
+    "score": 0.06446005403995514,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0328.jpg",
+    "score": 0.05881544202566147,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0329.jpg",
+    "score": 0.05716448277235031,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0330.jpg",
+    "score": 0.05416368693113327,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0331.jpg",
+    "score": 0.05523063987493515,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0332.jpg",
+    "score": 0.055990736931562424,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0333.jpg",
+    "score": 0.05717289075255394,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0334.jpg",
+    "score": 0.05624551326036453,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0335.jpg",
+    "score": 0.05996004492044449,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0336.jpg",
+    "score": 0.06781589984893799,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0337.jpg",
+    "score": 0.07566574960947037,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0338.jpg",
+    "score": 0.07828110456466675,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0339.jpg",
+    "score": 0.07951885461807251,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0340.jpg",
+    "score": 0.07858063280582428,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0341.jpg",
+    "score": 0.07472429424524307,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0342.jpg",
+    "score": 0.0730547159910202,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0343.jpg",
+    "score": 0.07224547863006592,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0344.jpg",
+    "score": 0.06349943578243256,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0345.jpg",
+    "score": 0.0594460628926754,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0346.jpg",
+    "score": 0.059586361050605774,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0347.jpg",
+    "score": 0.05886125937104225,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0348.jpg",
+    "score": 0.05419206991791725,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0349.jpg",
+    "score": 0.047901492565870285,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0350.jpg",
+    "score": 0.0486430898308754,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0351.jpg",
+    "score": 0.05658426135778427,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0352.jpg",
+    "score": 0.06717170029878616,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0353.jpg",
+    "score": 0.07916437089443207,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0354.jpg",
+    "score": 0.07724671810865402,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0355.jpg",
+    "score": 0.06431183218955994,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0356.jpg",
+    "score": 0.051486387848854065,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0357.jpg",
+    "score": 0.04145505279302597,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0358.jpg",
+    "score": 0.03465612605214119,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0359.jpg",
+    "score": 0.03221575543284416,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0360.jpg",
+    "score": 0.03100251406431198,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0361.jpg",
+    "score": 0.03355450555682182,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0362.jpg",
+    "score": 0.03770937770605087,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0363.jpg",
+    "score": 0.04273271560668945,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0364.jpg",
+    "score": 0.05126567929983139,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0365.jpg",
+    "score": 0.057715512812137604,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0366.jpg",
+    "score": 0.06047966703772545,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0367.jpg",
+    "score": 0.059209391474723816,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0368.jpg",
+    "score": 0.06620758771896362,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0369.jpg",
+    "score": 0.08049481362104416,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0370.jpg",
+    "score": 0.08608442544937134,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0371.jpg",
+    "score": 0.10117122530937195,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0372.jpg",
+    "score": 0.11401643604040146,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0373.jpg",
+    "score": 0.12877656519412994,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0374.jpg",
+    "score": 0.14011216163635254,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0375.jpg",
+    "score": 0.14793606102466583,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0376.jpg",
+    "score": 0.1548665314912796,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0377.jpg",
+    "score": 0.16114908456802368,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0378.jpg",
+    "score": 0.16150745749473572,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0379.jpg",
+    "score": 0.1523236334323883,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0380.jpg",
+    "score": 0.14163821935653687,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0381.jpg",
+    "score": 0.132379949092865,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0382.jpg",
+    "score": 0.11622413992881775,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0383.jpg",
+    "score": 0.10258038341999054,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0384.jpg",
+    "score": 0.0947134792804718,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0385.jpg",
+    "score": 0.08769838511943817,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0386.jpg",
+    "score": 0.08486349880695343,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0387.jpg",
+    "score": 0.09747223556041718,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0388.jpg",
+    "score": 0.09080763161182404,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0389.jpg",
+    "score": 0.09321580082178116,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0390.jpg",
+    "score": 0.10119058191776276,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0391.jpg",
+    "score": 0.11166346073150635,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0392.jpg",
+    "score": 0.13209933042526245,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0393.jpg",
+    "score": 0.14685550332069397,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0394.jpg",
+    "score": 0.15331748127937317,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0395.jpg",
+    "score": 0.1485014110803604,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0396.jpg",
+    "score": 0.14896667003631592,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0397.jpg",
+    "score": 0.17124244570732117,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0398.jpg",
+    "score": 0.18880707025527954,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0399.jpg",
+    "score": 0.19785664975643158,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0400.jpg",
+    "score": 0.22826933860778809,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0401.jpg",
+    "score": 0.239773690700531,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0402.jpg",
+    "score": 0.2374756932258606,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0403.jpg",
+    "score": 0.21598589420318604,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0404.jpg",
+    "score": 0.17346321046352386,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0405.jpg",
+    "score": 0.1377342790365219,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0406.jpg",
+    "score": 0.11162809282541275,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0407.jpg",
+    "score": 0.09077240526676178,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0408.jpg",
+    "score": 0.0736190527677536,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0409.jpg",
+    "score": 0.05795798823237419,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0410.jpg",
+    "score": 0.044744525104761124,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0411.jpg",
+    "score": 0.03596315532922745,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0412.jpg",
+    "score": 0.030573267489671707,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0413.jpg",
+    "score": 0.027429645881056786,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0414.jpg",
+    "score": 0.024723613634705544,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0415.jpg",
+    "score": 0.023593178018927574,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0416.jpg",
+    "score": 0.02128417417407036,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0417.jpg",
+    "score": 0.01895803213119507,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0418.jpg",
+    "score": 0.017284777015447617,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0419.jpg",
+    "score": 0.015733476728200912,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0420.jpg",
+    "score": 0.01388533040881157,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0421.jpg",
+    "score": 0.012432470917701721,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0422.jpg",
+    "score": 0.011358357965946198,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0423.jpg",
+    "score": 0.01145255658775568,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0424.jpg",
+    "score": 0.01087755523622036,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0425.jpg",
+    "score": 0.011679314076900482,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0426.jpg",
+    "score": 0.013192852959036827,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0427.jpg",
+    "score": 0.016548266634345055,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0428.jpg",
+    "score": 0.020769093185663223,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0429.jpg",
+    "score": 0.02451777085661888,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0430.jpg",
+    "score": 0.024881554767489433,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0431.jpg",
+    "score": 0.023755401372909546,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0432.jpg",
+    "score": 0.023505643010139465,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0433.jpg",
+    "score": 0.02348162792623043,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0434.jpg",
+    "score": 0.025904357433319092,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0435.jpg",
+    "score": 0.026772651821374893,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0436.jpg",
+    "score": 0.030394311994314194,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0437.jpg",
+    "score": 0.03310053050518036,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0438.jpg",
+    "score": 0.03469979763031006,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0439.jpg",
+    "score": 0.037432871758937836,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0440.jpg",
+    "score": 0.03971993550658226,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0441.jpg",
+    "score": 0.03933246433734894,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0442.jpg",
+    "score": 0.03902950882911682,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0443.jpg",
+    "score": 0.03758757561445236,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0444.jpg",
+    "score": 0.034472882747650146,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0445.jpg",
+    "score": 0.03201817348599434,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0446.jpg",
+    "score": 0.02999025583267212,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0447.jpg",
+    "score": 0.027044333517551422,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0448.jpg",
+    "score": 0.02492179162800312,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0449.jpg",
+    "score": 0.022407494485378265,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0450.jpg",
+    "score": 0.018981769680976868,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0451.jpg",
+    "score": 0.016403067857027054,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0452.jpg",
+    "score": 0.013941587880253792,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0453.jpg",
+    "score": 0.01230658683925867,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0454.jpg",
+    "score": 0.011607425287365913,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0455.jpg",
+    "score": 0.010841540060937405,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0456.jpg",
+    "score": 0.010569618083536625,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0457.jpg",
+    "score": 0.010613227263092995,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0458.jpg",
+    "score": 0.01176723837852478,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0459.jpg",
+    "score": 0.013101432472467422,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0460.jpg",
+    "score": 0.01653248444199562,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0461.jpg",
+    "score": 0.019300751388072968,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0462.jpg",
+    "score": 0.026029396802186966,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0463.jpg",
+    "score": 0.03193939849734306,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0464.jpg",
+    "score": 0.039522506296634674,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0465.jpg",
+    "score": 0.042660538107156754,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0466.jpg",
+    "score": 0.04452623054385185,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0467.jpg",
+    "score": 0.04293549805879593,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0468.jpg",
+    "score": 0.038873083889484406,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0469.jpg",
+    "score": 0.03843323513865471,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0470.jpg",
+    "score": 0.03611745685338974,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0471.jpg",
+    "score": 0.03473152220249176,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0472.jpg",
+    "score": 0.03302619606256485,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0473.jpg",
+    "score": 0.03285975009202957,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0474.jpg",
+    "score": 0.03639805316925049,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0475.jpg",
+    "score": 0.038170620799064636,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0476.jpg",
+    "score": 0.043213777244091034,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0477.jpg",
+    "score": 0.04609129950404167,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0478.jpg",
+    "score": 0.04920210316777229,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0479.jpg",
+    "score": 0.05668516457080841,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0480.jpg",
+    "score": 0.07627464830875397,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0481.jpg",
+    "score": 0.11306946724653244,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0482.jpg",
+    "score": 0.15749689936637878,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0483.jpg",
+    "score": 0.20009154081344604,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0484.jpg",
+    "score": 0.2350354790687561,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0485.jpg",
+    "score": 0.2697494328022003,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0486.jpg",
+    "score": 0.29700979590415955,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0487.jpg",
+    "score": 0.315613329410553,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0488.jpg",
+    "score": 0.3299352824687958,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0489.jpg",
+    "score": 0.34826937317848206,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0490.jpg",
+    "score": 0.36098143458366394,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0491.jpg",
+    "score": 0.3776508569717407,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0492.jpg",
+    "score": 0.4004356861114502,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0493.jpg",
+    "score": 0.4204930067062378,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0494.jpg",
+    "score": 0.44409894943237305,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0495.jpg",
+    "score": 0.4392217695713043,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0496.jpg",
+    "score": 0.4202859699726105,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0497.jpg",
+    "score": 0.38944318890571594,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0498.jpg",
+    "score": 0.3463296592235565,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0499.jpg",
+    "score": 0.30430659651756287,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0500.jpg",
+    "score": 0.27190449833869934,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0501.jpg",
+    "score": 0.24262605607509613,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0502.jpg",
+    "score": 0.22151555120944977,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0503.jpg",
+    "score": 0.20328372716903687,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0504.jpg",
+    "score": 0.1953563541173935,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0505.jpg",
+    "score": 0.18865056335926056,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0506.jpg",
+    "score": 0.18893790245056152,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0507.jpg",
+    "score": 0.18485550582408905,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0508.jpg",
+    "score": 0.18042272329330444,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0509.jpg",
+    "score": 0.1785387098789215,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0510.jpg",
+    "score": 0.17973864078521729,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0511.jpg",
+    "score": 0.1779753714799881,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0512.jpg",
+    "score": 0.17992448806762695,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0513.jpg",
+    "score": 0.17689922451972961,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0514.jpg",
+    "score": 0.18620893359184265,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0515.jpg",
+    "score": 0.1903533786535263,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0516.jpg",
+    "score": 0.20187163352966309,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0517.jpg",
+    "score": 0.20718413591384888,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0518.jpg",
+    "score": 0.21508826315402985,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0519.jpg",
+    "score": 0.23215699195861816,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0520.jpg",
+    "score": 0.27277040481567383,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0521.jpg",
+    "score": 0.321686327457428,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0522.jpg",
+    "score": 0.3568270206451416,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0523.jpg",
+    "score": 0.38404953479766846,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0524.jpg",
+    "score": 0.42202720046043396,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0525.jpg",
+    "score": 0.44301366806030273,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0526.jpg",
+    "score": 0.4711025655269623,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0527.jpg",
+    "score": 0.47404730319976807,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0528.jpg",
+    "score": 0.46243834495544434,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0529.jpg",
+    "score": 0.4375,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0530.jpg",
+    "score": 0.4056743383407593,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0531.jpg",
+    "score": 0.3531835675239563,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0532.jpg",
+    "score": 0.2809928357601166,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0533.jpg",
+    "score": 0.23665213584899902,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0534.jpg",
+    "score": 0.1999681442975998,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0535.jpg",
+    "score": 0.16443979740142822,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0536.jpg",
+    "score": 0.13385236263275146,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0537.jpg",
+    "score": 0.11258991807699203,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0538.jpg",
+    "score": 0.09749764949083328,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0539.jpg",
+    "score": 0.08108306676149368,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0540.jpg",
+    "score": 0.06975801289081573,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0541.jpg",
+    "score": 0.06136522442102432,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0542.jpg",
+    "score": 0.05358465388417244,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0543.jpg",
+    "score": 0.04580041021108627,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0544.jpg",
+    "score": 0.0404118150472641,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0545.jpg",
+    "score": 0.03808216005563736,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0546.jpg",
+    "score": 0.03510424494743347,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0547.jpg",
+    "score": 0.03255800902843475,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0548.jpg",
+    "score": 0.03028905764222145,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0549.jpg",
+    "score": 0.02820555865764618,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0550.jpg",
+    "score": 0.02540723979473114,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0551.jpg",
+    "score": 0.025156719610095024,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0552.jpg",
+    "score": 0.023086197674274445,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0553.jpg",
+    "score": 0.023124869912862778,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0554.jpg",
+    "score": 0.025433048605918884,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0555.jpg",
+    "score": 0.026089144870638847,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0556.jpg",
+    "score": 0.02702450193464756,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0557.jpg",
+    "score": 0.02771656960248947,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0558.jpg",
+    "score": 0.028684303164482117,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0559.jpg",
+    "score": 0.02704525738954544,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0560.jpg",
+    "score": 0.027661122381687164,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0561.jpg",
+    "score": 0.02718081697821617,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0562.jpg",
+    "score": 0.03051009401679039,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0563.jpg",
+    "score": 0.0390172153711319,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0564.jpg",
+    "score": 0.04826953262090683,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0565.jpg",
+    "score": 0.06302256882190704,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0566.jpg",
+    "score": 0.0757216066122055,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0567.jpg",
+    "score": 0.09315384179353714,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0568.jpg",
+    "score": 0.10293417423963547,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0569.jpg",
+    "score": 0.12158062309026718,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0570.jpg",
+    "score": 0.12537486851215363,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0571.jpg",
+    "score": 0.12654873728752136,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0572.jpg",
+    "score": 0.12890028953552246,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0573.jpg",
+    "score": 0.13012057542800903,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0574.jpg",
+    "score": 0.13807743787765503,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0575.jpg",
+    "score": 0.13900969922542572,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0576.jpg",
+    "score": 0.14403846859931946,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0577.jpg",
+    "score": 0.1465452015399933,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0578.jpg",
+    "score": 0.14881080389022827,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0579.jpg",
+    "score": 0.15814892947673798,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0580.jpg",
+    "score": 0.1454678177833557,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0581.jpg",
+    "score": 0.1344410926103592,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0582.jpg",
+    "score": 0.1313887983560562,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0583.jpg",
+    "score": 0.12215939909219742,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0584.jpg",
+    "score": 0.11724065244197845,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0585.jpg",
+    "score": 0.11184589564800262,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0586.jpg",
+    "score": 0.10558749735355377,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0587.jpg",
+    "score": 0.10084804147481918,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0588.jpg",
+    "score": 0.10589320212602615,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0589.jpg",
+    "score": 0.11273233592510223,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0590.jpg",
+    "score": 0.11227086186408997,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0591.jpg",
+    "score": 0.11806720495223999,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0592.jpg",
+    "score": 0.1201949417591095,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0593.jpg",
+    "score": 0.11375857889652252,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0594.jpg",
+    "score": 0.10153429955244064,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0595.jpg",
+    "score": 0.09254026412963867,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0596.jpg",
+    "score": 0.07504047453403473,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0597.jpg",
+    "score": 0.061387039721012115,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0598.jpg",
+    "score": 0.05156877636909485,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0599.jpg",
+    "score": 0.04526236653327942,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0600.jpg",
+    "score": 0.03938962146639824,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0601.jpg",
+    "score": 0.034834202378988266,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0602.jpg",
+    "score": 0.03462440147995949,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0603.jpg",
+    "score": 0.03364655748009682,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0604.jpg",
+    "score": 0.03314613550901413,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0605.jpg",
+    "score": 0.03252590075135231,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0606.jpg",
+    "score": 0.029739120975136757,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0607.jpg",
+    "score": 0.031474336981773376,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0608.jpg",
+    "score": 0.03451050445437431,
+    "is_positive": false
+  },
+  {
+    "image": "frame_0609.jpg",
+    "score": 0.03787621483206749,
+    "is_positive": false
+  }
+]

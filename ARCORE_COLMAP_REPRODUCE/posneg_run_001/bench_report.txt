@@ -1,0 +1,23 @@
+Benchmark Report (2026-03-16 17:27:54)
+Image: /home/user/Desktop/COLMAP_COLA/ARCORE_COLMAP_REPRODUCE/20260316_160316.jpg
+Checkpoint: /home/user/Desktop/COLMAP_COLA/ARCORE_COLMAP_REPRODUCE/posneg_run_001/best_model.pt
+
+CPU | model only
+Mode: model only
+Device: cpu | image_size: 320 | iters: 200
+Mean: 1.399 ms | P50: 1.384 ms | P95: 1.453 ms | FPS: 714.81
+
+CPU | full (preprocess+model)
+Mode: full (preprocess+H2D+model)
+Device: cpu | image_size: 320 | iters: 200
+Mean: 1.391 ms | P50: 1.265 ms | P95: 1.878 ms | FPS: 718.85
+
+CUDA | model only
+Mode: model only
+Device: cuda | image_size: 320 | iters: 200
+Mean: 0.157 ms | P50: 0.157 ms | P95: 0.162 ms | FPS: 6360.94
+
+CUDA | full (preprocess+model)
+Mode: full (preprocess+H2D+model)
+Device: cuda | image_size: 320 | iters: 200
+Mean: 0.286 ms | P50: 0.284 ms | P95: 0.310 ms | FPS: 3500.42
