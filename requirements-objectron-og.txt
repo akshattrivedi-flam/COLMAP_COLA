@@ -1,0 +1,9 @@
+# Separate TensorFlow environment for OBJECTRON_OG only.
+# Keep this isolated from the main PyTorch environment because OBJECTRON_OG needs numpy<2.
+
+numpy<2
+scipy
+opencv-python
+protobuf==3.20.3
+frozendict
+tensorflow==2.15.*

@@ -1,51 +1,58 @@
 # COLMAP_COLA Objectron Tracking Package
 
-This repository contains the curated Objectron-related code, compact dataset metadata, and model artifacts used for ARCore/COLMAP can tracking work.
+This repository contains the curated Objectron-related code, compact dataset metadata, selected checkpoints, and migration docs for the ARCore/COLMAP can-tracking pipeline.
 
-## Included
+## Start Here
+
+If you are setting this up on a new computer, read these first:
+
+- `SETUP.md`
+- `checklist.md`
+- `requirements-main.txt`
+- `requirements-sam2.txt`
+- `requirements-objectron-og.txt`
+- `requirements-system.txt`
+
+## Repository Contents
 
 - `ARCORE_COLMAP_REPRODUCE/`
-  - legacy single-stage training, inference, and evaluation scripts
-  - paper-aligned two-stage Objectron training and inference scripts
-  - portable launcher scripts with repo-relative paths
-  - compact Objectron annotation JSONs for the `Blue`, `Red`, and `Silver` videos
-  - key checkpoints and reports from:
-    - `posneg_run_001`
-    - `fresh_from_run001_20260330_155107`
-- `OBJECTRON_OG/`
-  - official Objectron code used by the evaluator for Objectron-style 3D IoU and geometry handling
+  - legacy single-stage Objectron-style training, inference, and evaluation
+  - paper-aligned two-stage Objectron branch
+  - repo-relative launcher scripts
+  - compact annotation JSONs for `Blue`, `Red`, and `Silver`
+  - selected checkpoints and evaluation outputs
 - `DATASET GENERATION/`
-  - compact dataset-generation scripts used to produce Objectron-style annotations from COLMAP/SAM2 pipelines
+  - COLMAP and SAM2 based utilities for generating Objectron-style annotations
+- `OBJECTRON_OG/`
+  - original Objectron code used for paper-aligned geometry and evaluation reference
 - `Objectron.pdf`
-  - Objectron paper reference used to align the tracking work
+  - Objectron paper reference
 
 ## Intentionally Excluded
 
-The original local workspace contains raw image frames, masks, COLMAP reconstructions, virtual environments, logs, videos, and other large artifacts that are too large for a careful GitHub push.
+The original workspace is much larger than what is practical to push to GitHub. The repository intentionally excludes most heavy local artifacts such as:
 
-Excluded categories include:
-
-- raw video frames such as `frames_rotated/` and `rgb/`
+- raw frames in `frames_rotated/` and `rgb/`
+- large mask folders and overlays
 - COLMAP databases and sparse reconstructions
-- mask folders and rendered overlays
-- local virtual environments
-- large logs and comparison videos
+- virtual environments
+- logs and temporary videos
 
-The compact annotation JSONs are included because they are the portable Objectron training metadata. The full raw image dataset remains outside this repo.
+For full migration, clone the repo and then copy the large data from the old machine as described in `SETUP.md` and `checklist.md`.
 
 ## Important Model Artifacts
 
-- baseline checkpoint: `ARCORE_COLMAP_REPRODUCE/posneg_run_001/best_model.pt`
+- baseline legacy checkpoint: `ARCORE_COLMAP_REPRODUCE/posneg_run_001/best_model.pt`
 - improved legacy checkpoint: `ARCORE_COLMAP_REPRODUCE/fresh_from_run001_20260330_155107/best_model.pt`
 
-## Notes
+## Environment Split
 
-- `eval_objectron_tracking.py` now supports both legacy single-stage checkpoints and the newer paper two-stage checkpoint format.
-- Relative paths inside run manifests are resolved from the manifest file location, so pushed run metadata is portable.
-- The paper-style two-stage branch is implemented in:
-  - `ARCORE_COLMAP_REPRODUCE/objectron_paper_twostage.py`
-  - `ARCORE_COLMAP_REPRODUCE/train_objectron_paper_twostage.py`
-  - `ARCORE_COLMAP_REPRODUCE/infer_objectron_paper_twostage.py`
+Use separate environments:
+
+- main env: PyTorch training, inference, evaluation, and optional SAM2 dataset generation
+- `OBJECTRON_OG` env: TensorFlow-only original Objectron code with `numpy<2`
+
+This separation is important for stability.
 
 ## Quick Commands
 

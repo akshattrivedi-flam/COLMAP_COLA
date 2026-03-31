@@ -1,0 +1,4 @@
+# Extra packages for the SAM2-based mask generation pipeline.
+# Install this into the main environment if you want the full COLMAP -> SAM2 -> Objectron regeneration flow.
+
+SAM-2==1.0

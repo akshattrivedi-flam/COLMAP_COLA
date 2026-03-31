@@ -1,0 +1,13 @@
+# Ubuntu/Debian system packages for the full pipeline.
+# Install with: sudo apt install -y $(tr '\n' ' ' < requirements-system.txt)
+
+git
+ffmpeg
+python3.10
+python3.10-venv
+python3-pip
+libgl1
+libglib2.0-0
+libsm6
+libxext6
+libxrender1
